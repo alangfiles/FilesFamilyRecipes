@@ -230,9 +230,9 @@ var recipes = [
     "recipe": "Starting the dough:\n      1 c. warm, not hot, water\n      2 pkg. active dry yeast\n      1 1/2 c. sifted all-purpose flour\nInto large mixing bowl, measure water.  Sprinkle yeast into bowl; stir until yeast dissolves.  \nAdd flour all at once. Stir until smooth.  Cover bowl with towel, and let stand in warm place (85-90 degrees for 1 1/2 hr.\n\nCompleting the dough:\n      3/4 c. shortening\n      1 c. granulated sugar\n      1 1/2 tsp. salt\n      2 eggs, unbeaten\n      1 egg white (save yolk for later)\n      4 tsp. grated lemon rind\n      2 T. lemon juice\n      About 3 1/4 C. sifted all-purpose flour\nWith electric mixer at medium speed, beat shortening until creamy. \nGradually add sugar and salt, beating until smooth and fluffy.\nBeat in eggs and egg white until smooth and fluffy. \n Stir in yeast mixture, lemon rind and juice.\nAdd enough flour to make dough that can be handled easily.\nPlace in greased large bowl; brush with melted shortening.  \nCover bowl with cloth.  Let rise till double in bulk.\n\nShaping the dough:\n      5 eggs (colored, but not cooked)\n      1 egg yolk\n      1 T. cream\n      Rainbow nonpareils (tiny colored candied)\nTurn dough onto floured board; Knead gently. Let rest 2 min.  \nThen divide dough in half; form into 2 ropes about 36” long.  Grease large cookie sheet.  \nForm loosely braided ring, leaving 5 spaces for eggs. Insert eggs. \nLet dough rise until almost double in bulk. \nBake at 350 for 10 min.  Beat yolk with cream.  Brush on bread.  Sprinkle with nonpareils.  \nBake 30-40 min. more, or until done.  \nAllow 1 egg per person.  (Eggs will be hard-cooked)  Guests remove egg and eat it as usual. \nGood for Easter breakfast served with strawberries, juice, milk and coffee."
   },
   {
-    "title": " \t\t",
+    "title": "Cinnamon Rolls-- Tulsa Public School’s",
     "type": "BREADS AND CEREALS",
-    "recipe": "Cinnamon Rolls-- Tulsa Public School’s \n\n4 pkg. dry yeast\t\t\t\t\tIcing:  4 C. powdered sugar\n1 pt. warm water, 115-120 degrees\t\t\t\t4 tsp. vanilla\n1/2 C. sugar\t\t\t\t\t\t\t8 T. milk\n3/4 C. shortening\n3 eggs, beaten\n1/2 c. dry milk\n1 T. salt\n7 to 7 1/2 c. flour\nButter softened\n2 C. sugar\n4 T. cinnamon\n\nIn a mixing bowl, sprinkle yeast over warm water stirring with a fork until dissolved.\nAdd sugar and let dissolve.\nAdd softened shortening and eggs.\nCombine flour, dry milk, and salt.  \nGradually add flour mixture to yeast mixture to make a soft, workable dough.  \nTurn out on a lightly floured surface.  \nKnead until smooth and elastic, adding small portions of flour if needed.\nPlace in a greased bowl, turning to coat the top.  Let double in bulk, about 45 min. \nRoll 1/2 of dough in a rectangle 12 x 17 in.  Brush with softened butter to within 1/2 in. of edges.  Sprinkle heavily with cinnamon sugar.  Roll from the long side.  \nWith bread knife, slice into 1 1/2 to 2 in slices.  Be sure to slice with slow even strokes to avoid squashing dough.  Place 1/2 in apart in greased 9 x 13-in. pans.  \nCover and let rise until light and rolls touch, about 45 min. \nRepeat with rest of dough.  Bake at 425 in preheated oven.  Makes 18-20 rolls."
+    "recipe": "4 pkg. dry yeast\t\t\t\t\tIcing:  4 C. powdered sugar\n1 pt. warm water, 115-120 degrees\t\t\t\t4 tsp. vanilla\n1/2 C. sugar\t\t\t\t\t\t\t8 T. milk\n3/4 C. shortening\n3 eggs, beaten\n1/2 c. dry milk\n1 T. salt\n7 to 7 1/2 c. flour\nButter softened\n2 C. sugar\n4 T. cinnamon\n\nIn a mixing bowl, sprinkle yeast over warm water stirring with a fork until dissolved.\nAdd sugar and let dissolve.\nAdd softened shortening and eggs.\nCombine flour, dry milk, and salt.  \nGradually add flour mixture to yeast mixture to make a soft, workable dough.  \nTurn out on a lightly floured surface.  \nKnead until smooth and elastic, adding small portions of flour if needed.\nPlace in a greased bowl, turning to coat the top.  Let double in bulk, about 45 min. \nRoll 1/2 of dough in a rectangle 12 x 17 in.  Brush with softened butter to within 1/2 in. of edges.  Sprinkle heavily with cinnamon sugar.  Roll from the long side.  \nWith bread knife, slice into 1 1/2 to 2 in slices.  Be sure to slice with slow even strokes to avoid squashing dough.  Place 1/2 in apart in greased 9 x 13-in. pans.  \nCover and let rise until light and rolls touch, about 45 min. \nRepeat with rest of dough.  Bake at 425 in preheated oven.  Makes 18-20 rolls."
   },
   {
     "title": " Cranberry Bread-- Jeanette Dyer’s",
@@ -886,32 +886,32 @@ var recipes = [
   },
   {
     "title": "Baked Bean Hawaiian Casserole",
-    "type": "EGGS AND PORK DISHES",
+    "type": "EGGS, BREAKFAST, AND PORK DISHES",
     "recipe": "2 cans (1-lb. size) pork and beans in tomato sauce\n1 can (13 1/2 oz.) pineapple chunks, drained\n1 T. instant minced onion\n1 tsp. dry mustard\n1 can (12 oz.) luncheon meat (Spam)\nAbout 1/2 t. -1t. ground cloves\n2 T. light brown sugar\nTurn beans into 1 1/2 qt. baking dish.  Gently stir in pineapple, onion, and mustard.\nCut luncheon meat into lengthwise slices. Score each and arrange on top of beans. \nSprinkle with powdered cloves and then sprinkle with brown sugar.\nBake uncovered 30 min. at 350, or until beans are bubbling. Serves 6."
   },
   {
     "title": "Broccoli Quiche—Kay Whitson’s ",
-    "type": "EGGS AND PORK DISHES",
+    "type": "EGGS, BREAKFAST, AND PORK DISHES",
     "recipe": "Makes 2 Pies- cook crust first.\nBoil 1 bunch fresh broccoli (chopped) for 5-7 min. Drain.\n1 hand-full chopped mushrooms \n1/2-1 c. chopped green onions \n1/2 stick butter \nSauté mushrooms & onions. \nDump all in bowl. \nAdd:\t1 lg. carton sour cream, \n2 eggs- salt & pepper\n1 c. each of shredded Swiss & cheddar cheese. \nBake at 350 for 50-60 min. Knife cut in middle should come out clean when done."
   },
   {
     "title": "Canadian Bacon Quiche soufflé",
-    "type": "EGGS AND PORK DISHES",
+    "type": "EGGS, BREAKFAST, AND PORK DISHES",
     "recipe": "8 English Muffin halves\n8 slices old English cheese (or sharp American Kraft cheese slices)\n8 slices Canadian bacon\n6 eggs\n3 1/2 c. milk\nsalt and pepper to taste\n1 1/2 tsp. onion flakes\n1/2 tsp. dry mustard\nPlace muffins in 9 x 12 baking dish (ungreased)\nPut 8 slices cheese on muffin halves, and Canadian bacon on top of that.  \nBeat other ingredients together and pour over top and refrigerate overnight.\nBake at 350 for 1 hr. uncovered.\t"
   },
   {
     "title": "Cheesy Egg Bake ",
-    "type": "EGGS AND PORK DISHES",
+    "type": "EGGS, BREAKFAST, AND PORK DISHES",
     "recipe": "(Ideal for brunch served with breads and fresh fruit)\n\n1 (10 1/2 oz.) can cream of chicken soup\n1/2-1 tsp. curry powder \n1 tsp. prepared mustard \n1/4 cup milk                          \n1 cup (4 oz.) grated Swiss cheese \n6 eggs\n1 tsp. instant onions \nCombine soup, milk, onion, curry and mustard in saucepan; heat until boiling. \nRemove from heat and stir in cheese until cheese melts. \nPour about 2/3 of sauce into oblong pan or baking dish (about 11 x7\"). \nBreak eggs over sauce; sprinkle each egg with salt and pepper and spoon remaining sauce around eggs. Bake in 350 oven until eggs are set (20-25 min.). \nGarnish with parsley and/or avocado slices. \nLet set about 5 min. before serving.                                     Serves 6. \nVariations: Same as above, except add 1/2 cup diced cooked chicken, turkey, ham, crumbled bacon, tuna or salmon. "
   },
   {
     "title": "Ham, Party Supreme ",
-    "type": "EGGS AND PORK DISHES",
+    "type": "EGGS, BREAKFAST, AND PORK DISHES",
     "recipe": "4-oz noodles (can use more), cooked \n1 can mushroom soup \n1/2 c milk \n1 t. minced onion \n1 t. mustard \n1 c. sour cream \n2 c. cubed ham \nMix all in 2-1/2 qt. casserole. \nTop with 1/4-c. breadcrumbs mixed with 2 T. melted oleo and 1 T. Parmesan cheese.\nBake uncovered @ 325 for 25 min. "
   },
   {
     "title": "Ham Loaf—Virginia Reilly’s",
-    "type": "EGGS AND PORK DISHES",
+    "type": "EGGS, BREAKFAST, AND PORK DISHES",
     "recipe": " \n1 lb. ground, cured ham \n2-3 lb. ground chuck \nSoak 2 slices white bread in 1-c. milk \nMix all above thoroughly. Bake at 350 for 2-2 1/2 hr. \nBaste with mix of: 1-c. water,      \t1 c. brown sugar \n             2 t. mustard\t1/8 t. cloves, \n       1/2 c vinegar. \nHeat this mix until sugar dissolves; pour over loaf. Can serve this with cherry sauce."
   },
   {
@@ -1236,197 +1236,197 @@ var recipes = [
   },
   {
     "title": " Ambrosia Cookies",
-    "type": "COOKIES",
+    "type": "COOKIES/SWEET SNACKS",
     "recipe": "2 cubes butter or margarine\n1 cup white sugar \n1cup brown sugar \n2 eggs \nI teaspoon vanilla \n2cups flour \n1 teaspoon baking powder \n1/4 teaspoon salt \n1/2 teaspoon soda \n1 cup coconut \n1 1/2 cups oatmeal \n1 cup nuts, chopped \n2 cups raisins, chopped \n1 teaspoon grated orange rind \n1 tablespoon grated lemon rind. \nCream butter, sugars, eggs, and vanilla. \nAdd remaining ingredients mixing well.\nUsing a small spoon, drop onto an ungreased cookie sheet. \nBake 10 to 12 minutes in a 375-degree oven."
   },
   {
     "title": " Apricot Balls—Jill Gotcher’s",
-    "type": "COOKIES",
+    "type": "COOKIES/SWEET SNACKS",
     "recipe": "2 T. butter\n1 C. chopped dried apricots\n2 eggs\n1 C. sugar\n1 tsp. vanilla\n1/2 c. chopped pecans\n1 C. coconut\n1 C. crushed graham cracker crumbs\n\nMelt butter in skillet, stir in apricots.  \nIn bowl, beat eggs, and blend in sugar. Pour into apricot mixture.  \nCook 15 min. on low heat and stir constantly.\nRemove from heat and stir in remaining ingredients.\nMake into balls and drop on waxed paper.  \nMakes about 1 1/2 dozen."
   },
   {
     "title": "Apricot Squares ",
-    "type": "COOKIES",
+    "type": "COOKIES/SWEET SNACKS",
     "recipe": "2/3 dried apricots\nAll –purpose flour\n1/2 cup butter or margarine, softened \n1/4 cup granulated sugar \n1 cup packed light brown sugar \n2 eggs \n1/2 teaspoon baking powder \n1/2 teaspoon vanilla extract \n1/4 teaspoon salt \nConfectioners’ sugar\n\n In covered small saucepan over low heat in enough water to cover apricots, cook apricots 15 minutes; drain and finely chop. \nPreheat oven to 350'F. \nGrease 8” by 8” baking pan.\nInto large bowl, measure 1-c. flour, butter or margarine and sugar. \nWith mixer at medium speed, beat ingredients until well mixed and crumbly;\nPat evenly into pan.\nBake 25 minutes or until golden. \nMeanwhile, into same bowl, measure 1/3-c. flour, apricots, brown sugar, and remaining ingredients except confectioners’sugar. \nWith mixer at medium speed, beat ingredients until well mixed, occasionally scraping bowl with rubber spatula; \nPour over baked layer and return to oven; \nBake 25 min. longer or until golden.  \nCool in pan. Cut into squares. \nSprinkle confectioners' sugar on top. Makes 16 cookies. "
   },
   {
     "title": " Cake Mix Cookies-Chi Omega",
-    "type": "COOKIES",
+    "type": "COOKIES/SWEET SNACKS",
     "recipe": "1 lemon cake mix (or any cake mix you like)\n1 egg\n1/2 carton of Cool Whip\nCream together all ingredients with your hands. \nTake a pinch of the dough, roll it into a ball, and cover with powdered sugar. \nCook at 350 degrees for 10 min."
   },
   {
     "title": "Cream Cheese Crescents",
-    "type": "COOKIES",
+    "type": "COOKIES/SWEET SNACKS",
     "recipe": " \nCream these together\n      1 c. margarine, softened \n      1 8 oz. Pkg. Cream cheese, softened \nMix and add:\n      2 c. flour \n      1/4 t. salt\nAdd to creamed mixture & mix well. \nShape into eight balls.\nWrap each in Saran wrap & chill 2 hr. \nRoll into 8” circles on floured surface. \nCut into eight wedges. (Can roll & cut as a cinnamon roll- easier) \nMix nuts, sugar, & cinnamon & sprinkle over each wedge. \nRoll from wide end as in a crescent. \nPlace point-side down on ungreased sheet. \nBake 350 for 12 min. \nRoll in powdered sugar."
   },
   {
     "title": "Holly Berry Cookies ",
-    "type": "COOKIES",
+    "type": "COOKIES/SWEET SNACKS",
     "recipe": "1/4 c butter\n1 pkg. regular marshmallows 35-40 lg. (or 4 c. miniature marshmallows) \n1 t. vanilla\nMelt with green food color in double boiler.\nStir constantly. \nWhen melted, add 5-C. cornflakes. \nSpoon onto greased cookie sheet.\nSprinkle some red hots on top quickly before cooling. (like berries on holly leaves) \nTear into cookie-size pieces when cool enough to handle.  \nMakes about 3 dozen. "
   },
   {
     "title": "Macaroons—The Greenbriar’s ",
-    "type": "COOKIES",
+    "type": "COOKIES/SWEET SNACKS",
     "recipe": "1/2 c. almond paste \n1/4 c. confectioner's sugar \n6 T. granulated sugar\n1/4 c. flour\n2 egg whites\nAdditional sugar, for sprinkling.\n\nPreheat the oven to 350F. Grease a baking sheet and dust it lightly with flour, shaking off any excess.\nCombine all the ingredients except the egg whites and additional sugar in a food processor and \nwork until they are well incorporated into fine granules. Add the egg whites and process until thoroughly combined. \nDrop the batter onto the prepared baking sheet using a teaspoon or a pastry bag fitted with a plain tip \nmaking small mounds about the diameter of a quarter, spaced 1 inch apart. \nSprinkle the cookies with a little sugar. (I think they also added toasted sliced almonds to theirs.) \nBake in the preheated oven until light brown, 10 - 12 minutes. \nWith a spatula remove immediately from the baking sheet and cool on a rack. \nThe macaroons may be stored in an airtight container up to 1 week. Makes about 3 dozen cookies."
   },
   {
     "title": "Oatmeal Cookies ",
-    "type": "COOKIES",
+    "type": "COOKIES/SWEET SNACKS",
     "recipe": "3/4 c. shortening \n1 t. vanilla \n1 egg \n1/4 c. water \nBeat wet ingredients (above) together.\nSift together all dry ingredients:\n1 c. brown sugar \n1 c. flour \n1/2 - 1 t. salt \n1/2 t. soda \n1 t. cinnamon \n1/2 c. sugar, granulated \nMix in shortening mixture. \nBlend in 3 c. oatmeal (& raisins if desired) \nDrop onto greased cookie sheet. \nBake at 350 for 12-15 min. Do not overbake!!  \nThese will not appear done, but harden on cooling. "
   },
   {
     "title": "Oatmeal Cookies, Southern—Melody Cooke’s",
-    "type": "COOKIES",
+    "type": "COOKIES/SWEET SNACKS",
     "recipe": "1 c. shortening\n1 c. sugar\n1 c. brown sugar\n2 eggs\n1 tsp. vanilla\n1 1/2 c. flour\n1 tsp. salt\n1 tsp. soda\n3 c. oats\n1 c. chopped nuts\n\nCream shortening and sugars. Mix in eggs and vanilla. \nSift flour, salt, and soda. Fold into creamed mixture. \nStir in oats and nuts. Roll into small balls and place on a greased cookie sheet. \nBake at 350 for 10-12 minutes or until golden brown."
   },
   {
     "title": " Peanut Butter Cookies ",
-    "type": "COOKIES",
+    "type": "COOKIES/SWEET SNACKS",
     "recipe": "1 c. shortening \n1 c. peanut butter \n1 c. sugar \n1 c. brown sugar \nCream all above together with 2 eggs. \nAdd 3-c. flour, 1 1/2-t. soda, 1-t. baking powder, 1/2-t. salt, 1-T. water \nMix, roll, and cut out with a glass. \nBake at 375 for 10-12 min. Makes five dozen. "
   },
   {
     "title": " Rolled Cookies (can use for cutout cookies)",
-    "type": "COOKIES",
+    "type": "COOKIES/SWEET SNACKS",
     "recipe": "1 pkg. white, yellow, chocolate, or spice cake mix\nMix with:\t1/4 c. shortening\n\t\t1 egg\n\t\t1 1/2 T. water\n\t\tCan add food coloring if desired\nMix quickly with hands. Make into roll, wrap in waxed paper, chill until stiff.\nSlice and bake at 375 for 5-7 min (1/16” slices) on ungreased cookie sheet."
   },
   {
     "title": "Sugar Cookies-- Basic ",
-    "type": "COOKIES",
+    "type": "COOKIES/SWEET SNACKS",
     "recipe": "2/3 c. shortening\n1 1/2 c. sugar\n2 eggs\n1-t. vanilla (can omit and use 1-t. lemon extract)\n3 3/4 c. all purpose flour\n2 1/2 t. baking powder\n1 t. salt\n1 T. milk\n2 T. cream or 1 egg white\nCream shortening; add sugar gradually, creaming well.  \nAdd eggs and vanilla; beat mixture until light and fluffy.  \nSift together dry ingredients.  Blend well into creamed mixture.  \nAdd milk, chill dough thoroughly.  Roll and cut out.  \nPlace 1/2 “ apart on sheet and brush with cream or slightly beaten egg white.  \nBake at 400 for 8-10 min.\n\nFor butterscotch sugar cookies:  substitute an equal amt. of brown sugar for white. \nFor chocolate:   Stir in 3 squares unsweetened chocolate, melted and cooled, before adding dry ingredients. Makes 5 dozen"
   },
   {
     "title": " Neiman's $250.00 Cookies ",
-    "type": "COOKIES",
+    "type": "COOKIES/SWEET SNACKS",
     "recipe": "2 Cups butter \n2 Cups granulated sugar \n2 Cups brown sugar \n4 eggs \n2 tsp. \n4 Cups flour \n5 Cups blended oatmeal—(Measure and process in blender to a fine powder) \n3 Cups chopped nuts \n1 tsp. salt\n2 tsp. baking powder \n2 tsp. baking soda \n24 oz. chocolate chips (2 large bags) \n1-8oz- Hershey bar, graded \nCream butter and both sugars. Add eggs and vanilla. \nMix together with flour, oatmeal, salt, baking powder and baking soda. \nAdd chips, candy and nuts. \nRoll into balls and place two inches apart on a cookie sheet. \nBake for 6 minutes at 375 F.  Makes 112 cookies. "
   },
   {
     "title": "Oat Flake Nut Cookies",
-    "type": "COOKIES",
+    "type": "COOKIES/SWEET SNACKS",
     "recipe": "1 cup sifted flour \n1/2 teaspoon baking powder \n1/2 teaspoon salt \n1/2 teaspoon soda \n1/3 cup butter or other shortening \n1/2 cup sugar \n1/2 cup firmly packed brown sugar \n1 egg \n1 teaspoon vanilla \n3/4 cup Post Oat Flakes \n3/4 cup chopped nuts \n\nSift together the sifted flour, baking powder, salt, and soda. \nCream butter. Blend in sugars, creaming until light and fluffy. \nAdd egg and vanilla, beat well. \nAdd flour mixture, cereal, and nuts; mix just until blended. \nShape into 1-inch balls with floured hands. \nBake on ungreased baking sheet 10 to 12 minutes at 375. Makes 2 dozen.  \nStore in tightly covered container. "
   },
   {
     "title": "Million Dollar Cookies ",
-    "type": "COOKIES",
+    "type": "COOKIES/SWEET SNACKS",
     "recipe": "1 c. Shortening \n1/2 c. Sugar \n1/2 c. Brown Sugar \n1 Egg  \n1/2 tsp. vanilla \n1/2 tsp. almond flavoring  \n2 c. flour\n1 tsp. baking soda\n1/2 tsp. salt\n1 tsp. cream of tartar\n1/2 c. raisins \nCream shortening, sugar, egg and flavoring. \nSift dry ingredients together. \nAdd to creamed mixture. Chill dough. \nDrop dough onto baking pan. Flatten with fork.\nBake for 10 minutes in 350-degree oven. Makes 30 cookies.\nVariations: Add 4 oz. chocolate chips or 4 oz. Peanut granules. "
   },
   {
     "title": "Praline Strips ",
-    "type": "COOKIES",
+    "type": "COOKIES/SWEET SNACKS",
     "recipe": "24 graham crackers \n1 c. oleo \nI c brown sugar \nI c pecans, chopped \nBreak grahams into strips and lay side by side on \nungreased foil-covered shallow pan \nwith non-shiny side of foil up.\nMix butter and brown sugar in pan to boiling. \nReduce to simmer & cook 2 min. \nAdd pecans & spread over crackers. \nBake 5 min. at 400. Cut in strips while warm. "
   },
   {
     "title": "Snickerdoodles",
-    "type": "COOKIES",
+    "type": "COOKIES/SWEET SNACKS",
     "recipe": "1/2 c. margarine\n1/2 c. shortening\n1 1/2 c. sugar\n2 eggs\n2 3/4 c. all-purpose flour (or can use self-rising flour and omit cream of tartar, soda, and salt)\n2 tsp. cream of tartar\n1 tsp. soda\n1/4 tsp. salt\n2 T. sugar\n2 tsp. cinnamon\nHeat oven to 375.  Mix thoroughly butter, shortening, 1 1/2 c. sugar and eggs.  \nBlend in flour, cream of tartar, soda, and salt.\nShape into balls.\nRoll in sugar and cinnamon.  Bake 8-10 min. on ungreased sheet.  "
   },
   {
     "title": " Bread Dough Cookies for Decorations—Kay Whitson’s",
-    "type": "MISCELLANEOUS AND TASTY GIFTS",
+    "type": "GIFTS AND MISCELLANEOUS",
     "recipe": "1 1/2 C. salt\n1 3/4 C. warm water\nStir until partially dissolved.\nAdd 4 C. flour and mix thoroughly.\nKnead for 2 min. on floured surface.\nDough should be firm but not cracked.\nCut out or form shape desired.  Punch hole in top to hang, if desired.  \nBrush with beaten egg.  Bake at 350 about 10-15 min.(?)\nDough can save in refrigerator.  \nNext day or so, varnish with 3 coats to high gloss."
   },
   {
     "title": " Caramel Corn",
-    "type": "MISCELLANEOUS AND TASTY GIFTS",
+    "type": "GIFTS AND MISCELLANEOUS",
     "recipe": "1 c. brown sugar, packed \n1/2 c. margarine, melted \n1/4 c. corn syrup (light or dark)\n1/2 t salt \n1/2 t. baking soda \n3-5 qt. popped corn \nMix sugar, oleo, syrup, and salt in lg. glass bowl. \nMicrowave on high until boils, then boil 2 min. \nStir in soda. \nPut popped corn in large paper bag. \nPour mixture over corn. Fold bag down. \nMicrowave on high 4-5 min. \nEvery minute, take out and shake bag. \nSpread on waxed Paper to cool. "
   },
   {
     "title": " Chocolate, Hot Mix",
-    "type": "MISCELLANEOUS AND TASTY GIFTS",
+    "type": "GIFTS AND MISCELLANEOUS",
     "recipe": "8 qt. box powdered milk\n16 ox. jar powdered cream\n1 lb. box powdered sugar\n1 lb. Nestle’s Quik (or kind you add milk to)\nMix all ingredients.  \nTo make: Mix 1/3 C. of mix with hot water. (2-3 heaping tsp.)"
   },
   {
     "title": "Charoses (Leona Livshee’s)#1",
-    "type": "MISCELLANEOUS AND TASTY GIFTS",
+    "type": "GIFTS AND MISCELLANEOUS",
     "recipe": "(Ashkenazic style)\n\n1 c. chopped apples\n1/4 c. chopped nuts (walnuts, pecans, or almonds)\n1 tsp. sugar or honey\nGrated rind of 1/2 lemon (or orange)\n1 tsp. cinnamon (or dash)\n2 T. red wine (Sweet or Passover wine)\nMix all.  Add enough of wine to bind the mixture."
   },
   {
     "title": " Charoses #2—Leona Livshee’s",
-    "type": "MISCELLANEOUS AND TASTY GIFTS",
+    "type": "GIFTS AND MISCELLANEOUS",
     "recipe": "(Sephardic Style)\n\n1 c. pitted dates (can substitrute1/2 c. raisins for 1/2 C. of the dates.)\n1/2 cup walnuts, pecans, or almonds\n1/4 tsp. ginger\n1 T. red wine\nSoak dates in water—about 3 hr. then simmer for 15 min.  \nChop nuts fine or use food processor.\nAdd dates to food processor, then add ginger and wine.\n(Can add one orange) "
   },
   {
     "title": " Gyros Sauce",
-    "type": "MISCELLANEOUS AND TASTY GIFTS",
+    "type": "GIFTS AND MISCELLANEOUS",
     "recipe": "2 C. yogurt or sour cream\n1/2 C. chopped cucumber\n2 T. chopped onion\n1 1/2 tsp. dry mint\n1/2 tsp. garlic powder\n1/4 tsp. salt"
   },
   {
     "title": " Humus (from VBS 29 AD)",
-    "type": "MISCELLANEOUS AND TASTY GIFTS",
+    "type": "GIFTS AND MISCELLANEOUS",
     "recipe": "1-16 oz. can chick peas\n1/4 c. tahina\nGarlic, salt, lemon juice, olive oil to taste\nMix well together (blender, probably) and serve as dip with pita bread."
   },
   {
     "title": " Jerky, Beef",
-    "type": "MISCELLANEOUS AND TASTY GIFTS",
+    "type": "GIFTS AND MISCELLANEOUS",
     "recipe": "2 lb. very lean top beef round steaks, cut 1/2” thick\nSalt, black pepper & garlic powder, or teriyaki sauce & black pepper\nPartly freeze beef, then trim all fat; \nSlice meat with grain into about 40 -1/2”-wide strips, 1/4” thick. \nAdd seasonings. \nLay strips on rack over shallow pans; place in 150 degree oven.  \nTurn after 6 hr.; bake 6 hr. more. Turn off heat and let stand overnight.  \nPack in plastic bags, foil, or waxed paper. \nNibble or add to main dishes when camping."
   },
   {
     "title": " Knox Blox ",
-    "type": "MISCELLANEOUS AND TASTY GIFTS",
+    "type": "GIFTS AND MISCELLANEOUS",
     "recipe": "4 envelopes Knox Unflavored Gelatin\n3 pkg. (3 oz. each) flavored gelatin \n4 c. boiling water \nIn large bowl, mix Knox Unflavored Gelatin with fruit-flavored gelatin. \nAdd boiling water and stir until gelatin is completely dissolved. \nPour into 13\" x 9\" baking pan. Chill until firm. \nTo serve, cut into 1-inch squares. Makes about 9 dozen blox. \n\nFRUIT JUICE KNOX BLOX: Omit flavored gelatin and water.  \nSprinkle Knox Unflavored Gelatin over 2 cups cold fruit juice; let stand 1 minute. \nAdd 2 cups fruit juice, heated to boiling, and stir until gelatin is dissolved.\nSweeten to taste. Chill as above."
   },
   {
     "title": "Modeling Clay, #1 “Goop”",
-    "type": "MISCELLANEOUS AND TASTY GIFTS",
+    "type": "GIFTS AND MISCELLANEOUS",
     "recipe": "(Gets very hard when left out for several days or when baked in oven on low heat)\n2 C. of table salt\n2/3 C. water \nMix and heat for about 5 min. Remove from heat and add:\n1 C. corn starch\n1/2 C. cold water.   Stir to blend.\nReturn to heat and cook until smooth.\nCool, and refrigerate in a plastic bag until ready to use."
   },
   {
     "title": "Modeling Clay, #2",
-    "type": "MISCELLANEOUS AND TASTY GIFTS",
+    "type": "GIFTS AND MISCELLANEOUS",
     "recipe": "1 C. cornstarch\n2 C. baking soda\n1 1/4 C cold water\nfew drops food coloring\nCombine first two ingredients in saucepan.\nAdd water and coloring to dry ingredients and bring to boil over medium heat, stirring constantly.  Cook a minute longer or until mixture looks like moist mashed potatoes.  Remove from heat.  Transfer to plate; \nCover with a damp towel and when cool enough to handle, knead it a little.\nPack in plastic bag.\nDries out hard as cement overnight. Then can be decorated with paints or felt tip marker, or shellacked for more of a ceramic look.\nGood for gifts with the recipe on a card, scouts, birthday parties, or bazaars."
   },
   {
     "title": "Pet Formula for Baby Wild Things (squirrels, rabbits, etc.)",
-    "type": "MISCELLANEOUS AND TASTY GIFTS",
+    "type": "GIFTS AND MISCELLANEOUS",
     "recipe": "5 oz. Pet Milk \n5 oz. water \n2 t. Karo syrup \n2 egg Yolks \n\nFor garden birds: \nTurkey starter (get at animal feed store) mixed with water \nOr dry dog food soaked in water. \n "
   },
   {
     "title": "Pet Oral Electrolyte Replacement Formula (used with sick lamb)",
-    "type": "MISCELLANEOUS AND TASTY GIFTS",
+    "type": "GIFTS AND MISCELLANEOUS",
     "recipe": "1 qt. water\n1 T. sugar\n1/2 raw egg\n1 T. bicarb. of soda (baking soda)\n1/2 tsp. salt\nShake together and warm. \nHold all food and give only this for 48 hr. \nThen give 1/2 recipe with 1/2 milk for 48 hr. \n(Lamb may drink 1 pt. every 4 hr.)"
   },
   {
     "title": "Paint, Finger ",
-    "type": "MISCELLANEOUS AND TASTY GIFTS",
+    "type": "GIFTS AND MISCELLANEOUS",
     "recipe": "1 C. cold water\n1 C. laundry starch\n3 C. soap flakes\nAdd powdered paint or food coloring to make desired colors.\nWet paper lightly with sponge and begin.\nPlace good dab of paint in center, and let child go."
   },
   {
     "title": "Playdough—Peggy Teller’s",
-    "type": "MISCELLANEOUS AND TASTY GIFTS",
+    "type": "GIFTS AND MISCELLANEOUS",
     "recipe": "1 C. flour\n1/2 C. salt\n2 tsp. cream of tarter\n1 T. salad oil\n1 C. water\nFood coloring—few drops\nPreservative—oil of wintergreen—few drops (get at drug store)\nMix all together and cook in saucepan over medium heat, stirring constantly until mixture pulls away from side of pan.\nKnead immediately.  Let cool before covering.  \nPlace in sealable containers, like old butter dishes."
   },
   {
     "title": "Pumpkin Seeds, Roasted",
-    "type": "MISCELLANEOUS AND TASTY GIFTS",
+    "type": "GIFTS AND MISCELLANEOUS",
     "recipe": "Put 2-T. oil or melted margarine in flat pan and spread unwashed pumpkin seeds out.\nSprinkle with salt. \nToast in oven at 350 for 15 min, stirring every few minutes."
   },
   {
     "title": "Snow Ice Cream ",
-    "type": "MISCELLANEOUS AND TASTY GIFTS",
+    "type": "GIFTS AND MISCELLANEOUS",
     "recipe": "1 egg beaten \n1/4 c. sugar \n1 t. vanilla \n1/2 c. Borden condensed milk \nMix ingredients together. Then gather big bowl of clean snow. \nAdd enough snow to mix to make consistency of homemade ice cream.  \nEnjoy!  (Very quick and easy.)"
   },
   {
     "title": "Soup--French Market Mix ",
-    "type": "MISCELLANEOUS AND TASTY GIFTS",
+    "type": "GIFTS AND MISCELLANEOUS",
     "recipe": "Mix 1 lb. each of 10-11 kinds of beans. \nDivide by 2 C. into each plastic bag, and then follow recipe in soup section. \nCan give with beer bread. (recipe in bread section)."
   },
   {
     "title": "Soup, Turkey-Noodle Dry Mix",
-    "type": "MISCELLANEOUS AND TASTY GIFTS",
+    "type": "GIFTS AND MISCELLANEOUS",
     "recipe": "1 cup uncooked firm egg noodles \n1 T. instant minced onion \n2-1/2. T. Chicken-flavored bouillon granules \n1/2 tsp. pepper \n1/4 teaspoon dried whole thyme\n1/8-teaspoon celery seeds \n1/8 teaspoon garlic powder\n1 bay leaf \n\nCombine all ingredients in a small plastic bag; store in a cool, dry place.\n(To ensure even distribution of seasonings, each recipe of soup rn1x must be mixed individually.) \nYield: about 1 cup.\n     \nDirections for recipe gift card: \nCombine soup mix, 8-c. water, and one carrot, diced, in a Dutch oven. \nBring to a boil; cover, reduce heat, and simmer 15 min. Discard bay leaf.  \nStir in 3 c. cooked diced turkey; simmer an additional 5-min. Yield: 2 qt. "
   },
   {
     "title": "Seasoning Salt Mix #1",
-    "type": "MISCELLANEOUS AND TASTY GIFTS",
+    "type": "GIFTS AND MISCELLANEOUS",
     "recipe": "4 oz. garlic salt\n1 tsp. pepper\n2 T. curry powder\n1 T. basil or oregano\n2-T. old-fashioned hickory smoked salt\n1 tsp. ground ginger\nGood on chicken, fish, pork, cottage cheese, or salads.  \nMakes nice Christmas or shower gifts."
   },
   {
     "title": "Seasoning Salt Mix #2",
-    "type": "MISCELLANEOUS AND TASTY GIFTS",
+    "type": "GIFTS AND MISCELLANEOUS",
     "recipe": "1 C. salt\n2 tsp. dry mustard\n1 1/2 tsp. dried whole oregano\n1 tsp. ground marjoram\n1 tsp. dried whole thyme\n1 tsp. garlic powder\n1 tsp. curry powder\n1/2 tsp. onion powder\n1/2 tsp. celery seeds\n1/4 tsp. dried whole dillweed (optional)"
   },
   {
     "title": "Sugarplums",
-    "type": "MISCELLANEOUS AND TASTY GIFTS",
+    "type": "GIFTS AND MISCELLANEOUS",
     "recipe": "In a food processor fitted with the steel blade, chop finely:\n\t1/2 c. dried apricots\n\t1/2 c. pecans,\n\t1/4 c. plus 1 T. grated sweetened coconut\n      1/4 c. golden raisins\n\t1/4 c. dried apples\nWith the motor running, add 2 T. kirsch * and blend the mixture for 5 seconds.\nForm the mixture into 3/4 in balls, (smaller is really better—1/2 in.) pressing each candy firmly into shape.\nRoll sugarplums in bowl with 3-T. sugar to coat evenly.\nThese keep in an airtight container at room temp. for up to 2 wk. Or can be frozen for several months.  \nMakes about 36 sugarplums. (more if smaller)\n* can substitute Grand Marnier or Cointreau for Kirsch (cherry liquor)"
   },
   {
@@ -1582,7 +1582,12 @@ var recipes = [
   {
     "title": "Big Red Easy Punch—Karin Files",
     "type": "BEVERAGES",
-    "recipe": "1 small can orange juice undiluted\n1 2-liter Big Red soda pop\nAdd together and serve!\n\nHot Spiced Cranberry Cider--Michele O'Sullivan  via Sally Key\nIf desired, float a fresh lemon slice in each cup.  Servings:  25\n\n2 quarts apple cider\n6 cups cranberry juice\n1/4 cup packed brown sugar\n4 cinnamon sticks\n1 1/2 teaspoons whole cloves\n1 lemon, thinly sliced\n\nIn a large pot, combine apple cider, cranberry juice, brown sugar, cinnamon\nsticks, cloves and lemon slices. Bring to a boil, reduce heat, and simmer for 15 to 20 minutes. With a slotted spoon, remove cinnamon, cloves, and lemon slices.  Serve hot."
+    "recipe": "1 small can orange juice undiluted\n1 2-liter Big Red soda pop\nAdd together and serve!"
+  },
+    {
+    "title": "Hot Spiced Cranberry Cider--Michele O'Sullivan  via Sally Key",
+    "type": "BEVERAGES",
+    "recipe": "If desired, float a fresh lemon slice in each cup.  Servings:  25\n\n2 quarts apple cider\n6 cups cranberry juice\n1/4 cup packed brown sugar\n4 cinnamon sticks\n1 1/2 teaspoons whole cloves\n1 lemon, thinly sliced\n\nIn a large pot, combine apple cider, cranberry juice, brown sugar, cinnamon\nsticks, cloves and lemon slices. Bring to a boil, reduce heat, and simmer for 15 to 20 minutes. With a slotted spoon, remove cinnamon, cloves, and lemon slices.  Serve hot."
   },
   {
     "title": "Super Easy Sparkling Cranapple Punch",
@@ -1605,14 +1610,24 @@ var recipes = [
     "recipe": "8 lemons\n1 bottle of Galens Vodka 151 \n6 cups of water\n2 cups of sugar\n\nPeel the lemons very thin, being careful not to peel the white part of the lemon.  (with a vegetable peeler).  In a glass bowl or jar, pour the alcohol over the lemon peels and let it sit for 3 days. After the third day, mix the water and sugar in a pan and bring it to a boil.  Remove from the stove to cool.  When it is at room temperature, using a sieve to catch the lemon peels, pour the alcohol into the cooled water.  It will turn yellow and it’s done.  \nPour into 3 bottles.  Store in the freezer. Serve chilled.  "
   },
   {
-    "title": "Very Easy  Raspberry Apple Cider—Sharon Wheeler (MROM)",
+    "title": "Very Easy Raspberry Apple Cider—Sharon Wheeler (MROM)",
     "type": "BEVERAGES",
-    "recipe": "Bring one gallon of apple cider to a boil.\nAdd one small box of raspberry jello.  Stir until jello is all dissolved.\n\nAge-Defying Shake—Pat Robertson\n\n6-8 oz. orange juice (water, other fruit juices, low-fat or skim milk can be substituted)\n5 Tablespoons soy protein isolate\n5 Tablespoons whey protein isolate\n2 Tablespoons natural apple cider vinegar\n1 tablespoon flaxseed oil\n1 tablespoon safflower oil\n2 tablespoons (or more) soy lecithin\n1 teaspoon MSM powder\n1 teaspoon glutamine powder\n5-6 frozen strawberries (or other fruits, e.g. peach, apple)\nNon-caloric sweetener to taste (aspartame not recommended)\n4-5 ice cubes (optional, use for a colder shake)\n\nIn a standard blender, combine the above ingredients.  \nBlend until the shake is smooth and the ice cubes are crushed.\nOptional ingredients you can try:\n2 tablespoons non-fat plain yogurt or 1 banana (gives more body to the drink)"
+    "recipe": "Bring one gallon of apple cider to a boil.\nAdd one small box of raspberry jello.  Stir until jello is all dissolved."
+  },
+{
+    "title":"Age-Defying Shake—Pat Robertson",
+    "type":"BEVERAGES",
+    "recipe": "6-8 oz. orange juice (water, other fruit juices, low-fat or skim milk can be substituted)\n5 Tablespoons soy protein isolate\n5 Tablespoons whey protein isolate\n2 Tablespoons natural apple cider vinegar\n1 tablespoon flaxseed oil\n1 tablespoon safflower oil\n2 tablespoons (or more) soy lecithin\n1 teaspoon MSM powder\n1 teaspoon glutamine powder\n5-6 frozen strawberries (or other fruits, e.g. peach, apple)\nNon-caloric sweetener to taste (aspartame not recommended)\n4-5 ice cubes (optional, use for a colder shake)\n\nIn a standard blender, combine the above ingredients.  \nBlend until the shake is smooth and the ice cubes are crushed.\nOptional ingredients you can try:\n2 tablespoons non-fat plain yogurt or 1 banana (gives more body to the drink)"
   },
   {
     "title": "Skaters Punch—Marilyn Hagan—Makes about 32  6 oz. servings",
     "type": "BEVERAGES",
-    "recipe": " May want to add more sugar and apple juice and orange juice. Just do the taste test and make additions until it suits you. \n\n2 C. Apple juice \n6 C. Cranberry juice \n1 C. Orange juice \nJuice of 2 lemons (about 6 T.) \n6 whole cloves \n1 cinnamon stick (I used about 4) \n8 T. sugar to taste \n2 Oranges, sliced \n2 limes, sliced \n\nCombine all ingredients in large saucepan, except sliced lemons and limes. Stir mixture until sugar is dissolved, then cover and heat on low until punch comes to a boil. Stud the fruit slices with a few whole cloves. \nFloat as a garnish in the punch. Or a crabapple in each cup is a nice touch. \n\nQuick mix Beverage—Lesley Files\n\nAdd 1 envelope of instant Apple Cider mix to a glass of Sprite and stir.\n(Can use the diet variety if you prefer)"
+    "recipe": " May want to add more sugar and apple juice and orange juice. Just do the taste test and make additions until it suits you. \n\n2 C. Apple juice \n6 C. Cranberry juice \n1 C. Orange juice \nJuice of 2 lemons (about 6 T.) \n6 whole cloves \n1 cinnamon stick (I used about 4) \n8 T. sugar to taste \n2 Oranges, sliced \n2 limes, sliced \n\nCombine all ingredients in large saucepan, except sliced lemons and limes. Stir mixture until sugar is dissolved, then cover and heat on low until punch comes to a boil. Stud the fruit slices with a few whole cloves. \nFloat as a garnish in the punch. Or a crabapple in each cup is a nice touch."
+  },
+    {
+    "title":"Quick mix Beverage—Lesley Files",
+    "type":"BEVERAGES",
+    "recipe":"Add 1 envelope of instant Apple Cider mix to a glass of Sprite and stir.\n(Can use the diet variety if you prefer)"
   },
   {
     "title": "ABC Breakfast Rolls",
@@ -2122,7 +2137,12 @@ var recipes = [
   {
     "title": "Great Chocolate Chip Cookies-Natalie Files Carretto",
     "type": "COOKIES/SWEET SNACKS",
-    "recipe": "1 cup shortening \n1/2 cup granulated sugar \n1 cup brown sugar \n2 eggs \n2 t. vanilla \n1 t. baking soda \n2 T. warm water \n1 t. salt \n3 cups flour \n6-12oz chocolate chips (depending on how much chocolate you like) \n1 Cup chopped nuts (optional)\n\nCream together shortening, sugar, brown sugar, eggs, and vanilla. \nAdd water, flour, salt, and baking soda. Stir until well mixed. Add chocolate chips and nuts.  Bake at 375 for 8-10 minutes.\nEaster Cookies \n½ C. whole pecans (optional)\n1 tsp. vinegar \n3 egg whites \npinch of salt \n1 cup sugar \nzipper baggie \nwooden spoon \ntape \nBible (readings are in the Miscellaneous Section of this if want to use them)\n\nPreheat over to 300*F. \nPlace pecans in zipper baggie.\nLet children beat pecans into very, very small pieces with the wooden spoon. \nExplain that after Jesus was arrested he was beaten by the Roman soldiers. \n\nLet each child smell the vinegar. \nPut 1 tsp. vinegar into mixing bowl. \nExplain that when Jesus was thirsty on the cross, he was given vinegar to drink. \n\nAdd egg whites to vinegar. \nEggs represent life. Explain that Jesus gave his life to us. \n\nSprinkle a little salt into each child's hand. \nLet them taste and brush the rest into the bowl.\nExplain how this represents the salty tears shed by Jesus' followers, and the bitterness of our own sin. \n\nNote that so far the ingredients are not very appetizing. \n\nAdd 1 cup sugar. \nExplain that the sweetest part of the story is that Jesus died because he loves us. \nHe wants us to know Him and belong to Him. \n\nBeat with mixer on high speed for 12-15 minutes until stiff peaks are formed. \nExplain that the white color represents purity in God's eyes of those whose sins have been cleansed by Jesus. \n\nFold in broken nuts. Drop by teaspoons onto wax paper covered cookie sheet. \nExplain that each mound represents the rocky tomb where Jesus' body was laid. \nPut the cookie sheet in the oven, close the door and turn the oven OFF. \nGive each child a piece of tape and seal the oven door.\nExplain that Jesus' tomb was sealed.\nLeave cookies in oven, and go to bed.\nExplain that they may feel sad to leave the cookies in the oven overnight. \nJesus followers were in despair when the tomb was sealed. \n\nOn Easter morning, open the oven and give everyone a cookie.\nNotice the cracked surface and take a bite. The cookies are hollow! Like the empty tomb!  On the first Easter, Jesus followers were amazed to find the tomb open and empty.  He is risen!"
+    "recipe": "1 cup shortening \n1/2 cup granulated sugar \n1 cup brown sugar \n2 eggs \n2 t. vanilla \n1 t. baking soda \n2 T. warm water \n1 t. salt \n3 cups flour \n6-12oz chocolate chips (depending on how much chocolate you like) \n1 Cup chopped nuts (optional)\n\nCream together shortening, sugar, brown sugar, eggs, and vanilla. \nAdd water, flour, salt, and baking soda. Stir until well mixed. Add chocolate chips and nuts.  Bake at 375 for 8-10 minutes.\n"
+  },
+  {
+    "title": "Easter Cookies",
+    "type":"COOKIES/SWEET SNACKS",
+    "recipe": "½ C. whole pecans (optional)\n1 tsp. vinegar \n3 egg whites \npinch of salt \n1 cup sugar \nzipper baggie \nwooden spoon \ntape \nBible (readings are in the Miscellaneous Section of this if want to use them)\n\nPreheat over to 300*F. \nPlace pecans in zipper baggie.\nLet children beat pecans into very, very small pieces with the wooden spoon. \nExplain that after Jesus was arrested he was beaten by the Roman soldiers. \n\nLet each child smell the vinegar. \nPut 1 tsp. vinegar into mixing bowl. \nExplain that when Jesus was thirsty on the cross, he was given vinegar to drink. \n\nAdd egg whites to vinegar. \nEggs represent life. Explain that Jesus gave his life to us. \n\nSprinkle a little salt into each child's hand. \nLet them taste and brush the rest into the bowl.\nExplain how this represents the salty tears shed by Jesus' followers, and the bitterness of our own sin. \n\nNote that so far the ingredients are not very appetizing. \n\nAdd 1 cup sugar. \nExplain that the sweetest part of the story is that Jesus died because he loves us. \nHe wants us to know Him and belong to Him. \n\nBeat with mixer on high speed for 12-15 minutes until stiff peaks are formed. \nExplain that the white color represents purity in God's eyes of those whose sins have been cleansed by Jesus. \n\nFold in broken nuts. Drop by teaspoons onto wax paper covered cookie sheet. \nExplain that each mound represents the rocky tomb where Jesus' body was laid. \nPut the cookie sheet in the oven, close the door and turn the oven OFF. \nGive each child a piece of tape and seal the oven door.\nExplain that Jesus' tomb was sealed.\nLeave cookies in oven, and go to bed.\nExplain that they may feel sad to leave the cookies in the oven overnight. \nJesus followers were in despair when the tomb was sealed. \n\nOn Easter morning, open the oven and give everyone a cookie.\nNotice the cracked surface and take a bite. The cookies are hollow! Like the empty tomb!  On the first Easter, Jesus followers were amazed to find the tomb open and empty.  He is risen!"
   },
   {
     "title": "Oatmeal Crispies—Carol Kronmiller’s family recipe",
