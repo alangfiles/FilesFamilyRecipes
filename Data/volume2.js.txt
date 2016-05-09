@@ -1,0 +1,352 @@
+﻿//GROUP RECIPES—from Community Bible Study (Ingredients to be brought by individuals and assembled at the meeting)
+
+{recipe: "",
+type:""},
+{recipe: "Baked Potato Pile-On/
+/
+One or two bring the baked potatoes./
+Others bring toppings like a salad bar, i.e./
+Grated cheddar cheese/
+Grated Swiss cheese/
+Ranch dressing/
+Chili/
+Butter/
+Sour Cream/
+Picante sauce/
+Beans/
+Broccoli chopped/
+Onions chopped/
+Bacon bits/
+Ham chopped",
+type:""},
+{recipe: "Chicken/Cabbage Salad, Oriental         (Serves about 12-14)/
+/
+3 pkg. Ramen noodles, crushed, sauté in 2 T. margarine (with spice packets)/
+1 larger  pkg. sliced almonds/
+1 bottle sesame seeds3 large Napa Cabbage, chopped/
+3 bunch green onions, chopped/
+Chicken breasts (1 lb.), cooked and cubed/
+Salad dressing:   /
+     1 c. rice vinegar     /
+     1 c. sugar     /
+     1 c. oil	    /
+     10 T. Soy sauce/
+        	Boil all ingredients together 1 minute, cool./
+Fruit, i.e. cantaloupe/
+Crackers/
+Dessert",
+type:""},
+{recipe: "Cold Chicken Salad       (should serve 12-14)/
+/
+4 C. cooked chicken cubed/
+3 C. cooked rice (regular white)/
+1 C. drained pineapple/
+Marinade (Mix 4 ingredients listed below and let chill together 2 hrs.)/
+     2 T. red wine vinegar /
+     ¼ c. salad oil/
+     1 ½ tsp. curry powder/
+     2 tsp. salt /
+2 C. diced celery/
+2 C. Mayonnaise/
+½ C. chopped green pepper/
+2 cans cashews (pieces are fine/
+2 cans chopped water chestnuts/
+Fruit, i.e. cantaloupe slices/
+Bread/Crackers /
+Dessert",
+type:""},
+{recipe: "Croissant Sandwiches    (Serves 16)/
+/
+Croissants  (2 people each bring 8)/
+Sliced ham/
+Sliced turkey/
+Swiss cheese slices/
+American cheese slices/
+Green pepper slices/
+Red onion & tomato slices/
+Sliced pickles/
+Sliced black & green olives/
+Leaf lettuce & alfalfa sprouts/
+Avocado slices or dip/
+Mayonnaise/
+Mustard/
+Chips/
+Lemonade or Tea/
+Dessert/
+Cold cups & plastic ware/
+Paper plates & napkins",
+type:""},
+{recipe: "Fruit Chicken Salad       (should serve 12-14)/
+/
+2 (11 oz.) cans mandarin oranges, drained /
+6 c. diced, cooked chicken /
+2 (15oz.) cans pineapple chunks, drained /
+2 c. chopped celery/
+1 can sliced black olives  (optional)/
+½ c. chopped green onions /
+1 c. chopped green peppers /
+large can chow mein noodles /
+Dressing:    /
+     3 c. mayo with /
+     3 Tbs. prepared mustard/
+Rolls/butter /
+Dessert /
+Plates, napkins, forks, cups /
+Iced tea, punch, or lemonade",
+type:""},
+{recipe: "Pasta Salad  (should serve about 12-14)/
+/
+1 lb. bag shell macaroni, cooked/
+2 C. grated Swiss cheese/
+2 C. grated cheddar cheese/
+3 C. diced cooked ham/
+3 C. diced cooked chicken/
+2 C. chopped broccoli/
+1 C. slivered blanched almonds/
+2 sm cans sliced black olives/
+1 sm jar artichoke hearts, cut up/
+1 pkg. dry Italian dressing/
+(sprinkle over dry salad before pouring on dressing)/
+2 C. chopped tomato/
+1 medium bottle Italian dressing/
+Dessert (maybe 2 people bring) /
+Rolls or crackers/
+Plates, napkins/
+Cold cups, forks, knives, spoons/
+Lemonade, tea, or punch",
+type:""},
+{recipe: "Taco Salad/
+/
+1 lb. ground beef, browned, sprinkled with/
+1 package taco seasoning/
+4 C. chopped lettuce/
+1 (16 oz.) can ranch style beans/
+½ C. sliced green olives/
+1 ½ C. shredded Cheddar cheese/
+¼ C. chopped green onion /
+1 (8 oz.) can pitted black olives, slices/
+1 pt. cherry tomatoes, halved/
+1 C. sour cream/
+1 C. cubed avocadoes or dip/
+1 (8 oz.) bottle Catalina salad dressing/
+1 (16 oz.) bag corn chips/
+Paper plates, glasses, napkins, plastic ware/
+Drinks—tea and lemonade",
+type:""},
+{recipe: "Taco Soup       (Serves 12-15)/
+/
+2 lbs. Ground beef (browned) (Or can substitute cooked chicken or turkey)/
+1 can kidney beans/
+1 onion (chopped & sautéed) /
+2 cans pinto beans/
+1 can Rotel tomatoes /
+1 can yellow hominy/
+1 pkg. Taco Seasoning /
+2 can stewed tomatoes/
+1 pkg. Original Hidden Valley Ranch dressing mix/
+/
+Combine all and heat. /
+Serve with tortilla chips, shredded cheddar cheese, and sour cream. /
+(Also listed in Soup section)/
+/
+SPECIAL OCCASIONS/
+/
+Wilda’s Elegant Spring Brunch Menu/
+     /
+     Golden Sparklers  (Beverage Section)/
+     Rosemary Almonds (Appetizer Section)/
+     Scones with Devonshire cream (Dessert Section & Sauce Section)/
+     Asparagus with Raspberry Vinaigrette  (Salad Section)/
+     Egg Roulade with Ham and Provolone cheese  (Egg Section)/
+/
+Elegant Luncheon Salad—Columbus Museum of Art/
+     /
+     Citrus Chicken Marinade  (All in Salad Section)/
+     Wild Rice & Dried Fruit Salad/
+     Basil Lemon Vinaigrette",
+type:""},
+{recipe: "Rachael Ray’s Thanksgiving in 60 Minutes:/
+/
+     Green Beans with Apple Cider/
+/
+2 (16-ounce) bags whole frozen green beans /
+Extra-virgin olive oil /
+1 small yellow skinned onion, finely chopped /
+3/4 cup apple cider /
+Salt and pepper/
+Put the beans in a large microwave safe bowl, loosely cover bowl with plastic food storage wrap and microwave on high 5 minutes. Uncover and stir the beans, then cover and microwave on high 4 to 7 minutes more, until desired doneness, from still-crisp to tender, but with a bite. /
+Heat a small skillet over medium low heat. Add a drizzle of extra-virgin olive oil and the onions and cook until beginning to caramelize, about 10 minutes, stirring frequently. /
+Add the cider, raise the heat to medium high and cook until liquid is reduced and syrupy, about 5 minutes. /
+Remove the beans from microwave. Season the beans with salt and pepper, to taste, and add to the pan with the onions and cider. /
+Toss evenly to coat the beans and keep warm until ready to serve.",
+type:""},
+{recipe: "     Pumpkin Soup with Chili Cran-Apple relish (might want it less spicy)/
+( Serves 8 as first course, 4 entree servings)/
+/
+1 tablespoon extra-virgin olive oil, 1 turn of the pan /
+2 tablespoons butter /
+1 fresh bay leaf /
+2 ribs celery with greens, finely chopped /
+1 medium yellow onion, finely chopped /
+Salt and pepper /
+3 tablespoons all-purpose flour /
+2 teaspoons poultry seasoning or 2 teaspoons ground thyme /
+2 teaspoons hot sauce, or to taste /
+6 cups chicken stock /
+1 (28-ounce) can cooked pumpkin puree /
+2 cups heavy cream /
+1/2 teaspoon freshly grated nutmeg /
+Relish: /
+1 crisp apple, such as McIntosh or Granny Smith, finely chopped /
+1/4 red onion, finely chopped /
+2 tablespoons lemon juice /
+1/2 cup dried sweetened cranberries, chopped /
+1 teaspoon chili powder /
+2 teaspoons honey /
+1/2 teaspoon ground cinnamon/
+Heat a medium soup pot over medium to medium high heat. Add the oil and melt the butter. Add bay, celery, and onion. Season the veggies with salt and pepper. Cook 6 or 7 minutes, until tender. Add flour, poultry seasoning and hot sauce, to taste, then cook flour a minute. Whisk in chicken stock and bring liquid to a bubble. Whisk in pumpkin in large spoonfuls to incorporate it into the broth. Simmer soup 10 minutes to thicken a bit then add in cream and nutmeg. Reduce heat to low and keep warm until ready to serve. /
+While soup cooks, assemble the relish: combine apple, onion, lemon juice, cranberries, chili powder, honey and cinnamon. /
+Adjust seasonings in soup and relish and serve soup in shallow bowls with a few spoonfuls of relish.",
+type:""},
+{recipe: "     /
+     /
+     /
+     /
+     Autumn Potatoes Gratin/
+4 pounds mixed baby potatoes, such as Red Bliss, Peruvian Purples, and Fingerlings /
+2 cups heavy cream, plus some to cover /
+4 tablespoons butter (1/2 stick) /
+2 sprigs each fresh thyme, sage, and rosemary /
+2 garlic cloves, cracked /
+Salt and pepper /
+1/2 cup grated Parmesan/
+/
+Preheat the oven to 400 degrees F. /
+Halve the potatoes and toss them into a large baking dish and season with salt and pepper. /
+Meanwhile, put the cream, butter, herbs, and garlic in a small saucepan and bring to a simmer over medium heat. /
+Cook for about 5 minutes, to infuse the cream with flavor. /
+Season with salt and pepper. /
+Pour the hot cream mixture through a strainer over the potatoes, /
+(discard the herbs and garlic)./
+If there is not enough cream to go 3/4 of the way up the potatoes then pour some additional cream on top to make up the difference. /
+Sprinkle the Parmesan evenly over the top. /
+Bake for 30 to 35 minutes, until the potatoes are cooked through and top begins to brown. /
+Cover and keep warm until ready to serve.",
+type:""},
+{recipe: "Dessert Note:  /
+Rachael added a bought apple pie for dessert which she heated up in the oven, and served with ice cream./
+/
+     /
+     /
+     /
+     Herb Roasted Turkey Breast with Pan Gravy  (Serves 8)/
+1 small (golf-ball sized) onion, peeled and coarsely chopped /
+1 lemon, scrubbed clean /
+12 fresh sage leaves /
+Large handful fresh flat-leaf parsley (about 1/2 cup, from 12 stems) /
+3 tablespoons extra-virgin olive oil, plus more for oiling pan /
+1 teaspoon salt, plus more as needed /
+6 fresh bay leaves /
+4 tablespoons butter /
+2 boneless turkey breast halves, skin on (about 2 to 2 1/2 pounds each) /
+Freshly ground black pepper /
+3 tablespoons all-purpose flour /
+1/4 cup apple or regular brandy (recommended: Calvados) /
+2 to 3 cups apple cider /
+Salt and pepper/
+Preheat the oven to 450 degrees F. Oil a roasting pan and set it aside. /
+Put the onion into the bowl of a mini food processor. Using a vegetable peeler, peel the zest from the lemon in thin strips, being careful not to cut into the bitter white pith. Add the lemon zest to the food processor and reserve the whole lemon for another use. Chop the onion and lemon zest until fine. Add the sage, parsley, olive oil, and 1 teaspoon salt and pulse until it forms a coarse paste. /
+Put 2 of the bay leaves and the butter into a small pan and heat over medium-low heat until the butter is bubbling. Remove from the heat and set aside. /
+Put the turkey breasts on a work surface. Carefully run your fingers between the skin and the flesh from 1 end, being careful not to pull it completely off, creating a pocket. Season the turkey breasts generously with salt and pepper. Stuff half of the herb paste under the skin of each breast, and spread it evenly under the skin. Transfer the breasts to the roasting pan, and slide 2 bay leaves underneath each one. (The heat of the pan will release the bay leaf oils and flavor the breast.) Using a pastry brush, baste the breasts with half of the bay butter. Place the turkey in the oven and immediately decrease the temperature to 400 degrees F. After 20 minutes, baste the turkey breasts with the remaining butter, and roast for an additional 20 to 25 minutes, until cooked through, and a thermometer placed in the thickest part of the breast registers 170 degrees F. Remove from the oven, transfer to a platter, cover, and let rest for 10 minutes before carving while you make the gravy. /
+Gravy:  Put the roasting pan over the burner on medium heat. Sprinkle the flour over the pan juices, and cook, stirring, for a few minutes. Add the apple brandy, and scrape the pan to lift the bits that are stuck to the bottom. Cook for a minute to burn off the alcohol, then, while stirring, pour in the apple cider. Bring to a simmer, and stir until thickened. Season with salt and pepper. /
+Circleville Pumpkin Festival/
+/
+Pumpkin Bars—Circleville Pumpkin Festival/
+2 c sugar/
+1/2 c vegetable oil/
+16 oz. canned pumpkin/
+4 eggs, beaten/
+3 c buttermilk baking mix/
+2 tsp cinnamon/
+1/2 c raisins/
+cream cheese frosting/
+Combine sugar, oil, pumpkin and eggs in large bowl and beat one minute. Stir in baking mix, cinnamon and raisins. Pour into greased jellyroll pan. Bake 25-30 minutes at 350 degrees. Cool before frosting./
+Cream Cheese Frosting/
+3 oz cream cheese, softened/
+1/3 c butter, softened/
+1 tbsp milk/
+1 tsp vanilla/
+2 c powdered sugar/
+Combine cream cheese, butter, milk, and vanilla until smooth. Stir in powdered sugar and beat again until smooth./
+/
+Pumpkin Bread-- Circleville Pumpkin Festival/
+3 c sugar/
+1 c oil/
+4 eggs, slightly beaten/
+1 can pumpkin/
+3-1/2 c all-purpose flour/
+2 tsp baking soda/
+2 tsp salt/
+1 tsp baking powder/
+1 tsp nutmeg/
+1 tsp allspice/
+1 tsp cinnamon/
+1/2 tsp ground cloves/
+2/3 c water/
+Preheat oven to 350 degrees. In a large bowl, mix sugar and oil. Add pumpkin and eggs. Blend well. Then, add flour, spices, and water. Mix completely. Pour into two, well-greased loaf pans. Bake for 1 1/2 hours or maybe less if seems done.",
+type:""},
+{recipe: "Pumpkin Cookies-- Circleville Pumpkin Festival/
+/
+4 c flour /
+1-1/2 c butter/
+2 c quick cooking oats /
+2 c brown sugar /
+2 tsp baking soda /
+2 tsp cinnamon /
+1 egg /
+1 tsp salt/
+1 tsp vanilla /
+2 c pumpkin, puree (16oz) /
+1 c chocolate chips /
+1 c raisins /
+1 c chopped nuts /
+1/2 pkg M&M's/
+Preheat oven to 325 degrees F. Grease cookie sheets. Cream butter, sugar and egg, vanilla and pumpkin, beat it all until light and fluffy. Mix in dry ingredients, beat in cup by cup, mix all well. Drop on cookie sheets by teaspoonfuls, leave space they will spread out. Bake 20-25 minutes, or until firm and lightly golden brown. Remove from cookie sheets, cool on racks. Decorate with M&M right away or drizzle with LEMON GLAZE: 1 3/4 cup of Powdered Sugar 1 Tablespoon grated lemon peel 1 Tablespoon lemon juice. Combine all three and glaze the cookies with it, or decorate with jelly beans for children.",
+type:""},
+{recipe: "Lenten Pretzels/
+Notes:  Lent is a period of fasting, self-denial and prayer, in imitation of our Lord’s fasting, forty days and forty nights, and in preparation for the feast of Easter. It comprises forty days, not including Sundays, from Ash Wednesday to the end of Holy Saturday. Pretzels were the ancient Christian Lenten bread as far back as the fourth century. In the old Roman Empire, the faithful kept a very strict fast all through Lent: no milk, no butter, no cheese, no eggs, no cream and no meat. They made small breads of water, flour and salt, to remind them that Lent was a time of prayer. They shaped these breads in the form of crossed arms for in those days they crossed their arms over the breast while praying. Therefore they called the breads “little arms” (bracellae). From this Latin word, the Germanic people later coined the term “pretzel.” ",
+type:""},
+{recipe: "Easy Pretzels:/
+ 2 loaves (16oz) frozen whole wheat bread dough, thawed/
+ 1 egg white/
+ 1 tsp water/
+ Coarse salt, optional/
+ Thaw dough in refrigerator overnight./
+ Roll into 24 balls (12 each loaf)./
+ Roll into ropes and shape into pretzels by forming a knot and looping ends   /
+ through.  Place 1 inch apart on well greased cookie sheet. Let stand 20 minutes./
+ Combine egg whites with water and brush on pretzels./
+ Sprinkle with salt and bake at 350F for 20 minutes./
+ (See Pretzel recipe below for various dips and toppings)/
+/
+Soft  Yeast Pretzels (like Auntie Anne’s):     (Serves 8-12)/
+1 1/2 tsp. active dry yeast/
+1/2 tsp. brown sugar/
+1 dash salt/
+1 1/2 cups 110 degree water/
+4 cups bread flour/
+1 Tbls. baking soda/
+1/4 cup warm water/
+1 cup melted real butter/
+toppings (see Notes, below)/
+Combine first 4 ingredients; allow to rest for 5 minutes. Stir flour to mixture and knead for 5 minutes. Place dough in a lightly greased bowl, cover with a damp towel, and allow to rise in a warm place for 1 hour. Divide dough into 8-12 equal-size pieces; roll each piece into a rope; shape each rope into a pretzel./
+In a shallow dish, stir baking soda into warm water; dip pretzels into mixture; lay coated pretzel onto a lightly greased cookie sheet. Bake in a 550 degree oven for 8 minutes, or until golden brown. -Brush melted butter onto hot pretzels./
+Toppings:  For salted pretzels, sprinkle with pretzel salt or Kosher salt. For cinnamon-sugar pretzels, stir 2 Tbls. honey into the melted butter before brushing on pretzels, then sprinkle with a mixture of 1/2 cup granulated sugar and 1 tsp. ground cinnamon. For Parmesan pretzels, sprinkle with a mixture of 1/4 cup grated Parmesan cheese and 1 tsp. garlic salt; serve with marinara sauce. Can also add a glaze topping: 1/8 – 1/4 cup heavy whipping cream. Add powdered sugar to thicken approx 3 times the amount of cream. Best if chilled for 15 minutes. Pour over pretzel.",
+type:""},
+{recipe: "St. Patrick’s Day Recipes/
+/
+	Ballymaloe Irish Stew  (in Soup Section, p. 29)/
+	Irish Oatmeal Soda Bread  (in Bread Section, p. 18)/
+     Irish Soda Bread #2   (in Bread Section, p. 18)",
+type:""},
+{recipe: "
