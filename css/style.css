@@ -1,21 +1,16 @@
-.card{
-    background:#eee;
-    margin:20px;
-    padding:20px;
+
+#overview{ 
+    font-size: 2em;
 }
-.card-title{
-    /*font-size: 2em; */
-}
-.card-type{
-    /*font-size:1em;*/
-}
-.card-text{
-    clear:both;
+#search-box{ 
+    width: 100%;     
     
 }
-#categories{
-}
-#recipe{
+#search {
+    padding: 0.5em;
+    border-radius: 5px;
+    margin: 1em;
+    min-width: 50%;
 }
 
 .card{
@@ -28,17 +23,10 @@ border-top-style: solid;
 border-radius:5px;
 box-shadow: 5px 5px 5px rgba(100,100,100,.5);
 }
-.card-title{
-/*font-size: 2em; */
-}
-.card-type{
-/*font-size:1em;*/
-}
+
 .card-text{
 clear:both;
 
-}
-#categories{
 }
 
 .appetizersandsnacks{ border-top-color: #f47979;}
@@ -65,8 +53,6 @@ clear:both;
 
 
 
-#recipe{
-}
 #categories{
 display:block;
 }
