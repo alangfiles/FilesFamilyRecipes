@@ -52,7 +52,7 @@ var recipes = [
   {
     "title": "Deviled Eggs",
     "type": "APPETIZERS AND SNACKS",
-    "recipe": "12 hard-boiled eggs-- (To hard-boil:  Place eggs in cold water, cover and bring to boil, turn off heat and let sit 20 min.  Then pour off hot water, and cover eggs with cool water to arrest cooking.)\nRemove shell, and slice carefully in half.  Remove yolks and mash.  Add:\n\t1/4 C. mayonnaise\n\t1 t. vinegar\n\t1/2 or 1 t. mustard\n\t1/4 t. salt\n\tdash pepper\nAdd milk to make right texture.\nRefill white halves of eggs with mixture, and sprinkle with paprika. Refrigerate.."
+    "recipe": " 12 hard-boiled eggs-- (To hard-boil:  Place eggs in cold water, cover and bring to boil, turn off heat and let sit 20 min.  Then pour off hot water, and cover eggs with cool water to arrest cooking.)\n  Remove shell, and slice carefully in half.  Remove yolks and mash.  Add:\n 1/4 C. mayonnaise\n1 t. vinegar\n1/2 or 1 t. mustard\n1/4 t. salt\ndash pepper\nAdd milk to make right consistency.\nRefill white halves of eggs with mixture, and sprinkle with paprika. Refrigerate"
   },
   {
     "title": "Dill Dip ",
@@ -97,7 +97,7 @@ var recipes = [
   {
     "title": "Snacks-- Virginia Reilly’s",
     "type": "APPETIZERS AND SNACKS",
-    "recipe": "Double this amount:\n6 T. margarine\n2 T. Worchestershire\n1 1/2 tsp Lawry Salt\n3/4 tsp garlic powder\n1/2 tsp onion powder\nNote:  Melt margarine and stir in above ingredients in a saucepan on the stovetop, and then pour sauce over the \tdry ingredients listed below in a large baking pan, i.e. turkey roasting pan, then stir together.\n3 C. each:\n\tCorn Chex\n\tRice Chex\n\tWheat Chex\n\t(I use all Rice Chex as that is what I prefer)\n1 C. nuts (dry-roasted)—optional\n1 C. straight pretzels broken\nBake at 250 for 1 hr.  Stir every 15 min.\n\nSpinach, Knorr Dip\n1 envelope Knorr vegetable soup mix \n16 oz. sour, cream \n1/2 c. mayonnaise \n1/2 t. lemon juice. \nStir in 1 pkg. frozen, chopped spinach, thawed and squeezed dry \nAdd 1 (8 oz) can water chestnuts, drained & chopped.   \nChill 2 hr.  Serve with crackers."
+    "recipe": " Double this amount:\n6 T. margarine\n2 T. Worcestershire sauce\n1 1/2 tsp Lawry’s Seasoned Salt\n3/4 tsp garlic powder\n1/2 tsp onion powder\nNote:  Melt margarine and stir in above ingredients in a large roasting pan, i.e. turkey roasting pan, on the stovetop, and then put in the dry ingredients and stir together.\n3 C. each:\nCorn Chex\nRice Chex\nWheat Chex\n(I use all Rice Chex as that is what I prefer)\n1 C. nuts (dry-roasted)—optional\n1 C. straight pretzels broken\nBake at 250 for 1 hr.  Stir every 15 min.\n"
   },
   {
     "title": "Vegetable Dip—Jeanine Hoeft's ",
@@ -177,12 +177,12 @@ var recipes = [
   {
     "title": " Wine Cup, St. Vincent’s —Nonalcoholic",
     "type": "BEVERAGES",
-    "recipe": "3/4 C. (6 fl. oz.) white grape juice \n1 tbs. Rose's lime juice \n2 leaves fresh mint \nMakes two 4-ounce wine glasses. Serve chilled on the rocks with mint as garnish.\nTo make a pitcher:\n8 C. white grape juice  (One 2 qt. jar has 8 cups)\n8 T Rose’s lime juice"
+    "recipe": "3/4 C. (6 fl. oz.) white grape juice \n1 tbs. Rose's lime juice \n20 leaves fresh mint \nMakes two 4-ounce wine glasses. Serve chilled on the rocks with mint as garnish.\nTo make a pitcher:\n8 C. white grape juice  (One 2 qt. jar has 8 cups)\n8 T Rose’s lime juice"
   },
   {
     "title": "Wine Cup, New Apple --Nonalcoholic ",
     "type": "BEVERAGES",
-    "recipe": "5/8 cup (5 fl. oz.) white grape juice \n1/4 cup  (2 fl. oz.) clear apple juice \n1-cup ice cubes \nCombine items at slow speed in a blender. \nMakes 2 cups (16 fluid ounces) of juice at 24 calories per 4-ounce wineglass. \nTo make a pitcher:\n6 1/4 C. White grape juice  \n2.5 C. clear apple juice"
+    "recipe": "5/8 cup (5 fl. oz.) white grape juice \n1/4 cup  (2 fl. oz.) clear apple juice \n10 C. ice cubes \nCombine items at slow speed in a blender. \nMakes 2 cups (16 fluid ounces) of juice at 24 calories per 4-ounce wineglass. \nTo make a pitcher:\n6 1/4 C. White grape juice  \n2.5 C. clear apple juice"
   },
   {
     "title": " Wine, Mulled ",
@@ -427,7 +427,7 @@ var recipes = [
   {
     "title": " Chili-- Eve’s Award Winning",
     "type": "SOUPS",
-    "recipe": "5 lb. ground chili meat (or little less)\n1 c. chili powder (I never use this much—maybe 1/4 C.)\n1 No. 5 can tomato juice (the cheaper, the better)\n1 T. garlic powder\n1 1/2 T. salt\n1/2 T. cumin\n1 1/2 lb. onion (about 5-6), chopped\n1/4 tsp. cayenne pepper (or less)\n1/4 tsp. oregano\n1/4 tsp. paprika\n\nBrown meat and sauté onions till clear--drain if desired.\nMix meat and onions with spices and then add tomato juice.  \nCook slowly for 1-4 hr. uncovered or covered and open a little, stirring occasionally.\nCan add cooked beans later if desired.\n "
+    "recipe": "5 lb. ground chili meat (or little less)\n1 c. chili powder (I never use this much—maybe 1/4 C.)\n1 No. 5 can tomato juice (the cheaper, the better)\n1 T. garlic powder\n1 T. salt\n1/2 T. cumin\n1 1/2 lb. onion (about 5-6), chopped\n1/4 tsp. cayenne pepper (or less)\n1/4 tsp. oregano\n1/4 tsp. paprika\n\nBrown meat and sauté onions till clear--drain if desired.\nMix meat and onions with spices and then add tomato juice.  \nCook slowly for 1-4 hr. uncovered or covered and open a little, stirring occasionally.\nCan add cooked beans later if desired.\n "
   },
   {
     "title": " Chicken Soup-- Mrs. Whitson’s",
@@ -1057,7 +1057,7 @@ var recipes = [
   {
     "title": "Spinach-Artichoke Casserole ",
     "type": "VEGETABLES AND FRUITS",
-    "recipe": "2 lg. bags frozen chopped spinach\n1 pkg. cream cheese \n2 T. lemon juice \n1/2 c. margarine or butter \n1 t. garlic salt \n1 can artichoke hearts (or frozen) \nPepperidge Farm Crumbs for topping.\nCook spinach & drain well. \nMix cream cheese, butter, lemon juice, & garlic salt. \nAdd spinach while still warm and mix. \nLine greased casserole with cut up artichoke hearts.\nSpoon mixture over them. Sprinkle with breadcrumbs & dot with butter. \nBake at 350 for 25 min. "
+    "recipe": "2 lg. bags frozen chopped spinach\n1 pkg. cream cheese \n2 T. lemon juice \n1/2 c. margarine or butter \n1 t. garlic salt \n1 can artichoke hearts (or frozen) \nPepperidge Farm Crumbs for topping.\nCook spinach & drain well. \nMix cream cheese, butter, lemon juice, & garlic salt. \nAdd spinach while still warm and mix. \nLine greased casserole with cut up artichoke hearts.\nSpoon mixture over them. Sprinkle with breadcrumbs & dot with butter. \nBake at 350 for 25 min. \n(Can add Parmesan cheese to the topping, or use only Parmesan cheese for a gluten-free dish)"
   },
   {
     "title": " Spinach and Corn Parmesan",

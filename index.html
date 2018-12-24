@@ -12,8 +12,8 @@
             <input type="button" id="random" value="Random Recipe">
         </div>
         <label><input type="checkbox" id="title" checked>Title</label>
-        <label><input type="checkbox" id="category" >Category</label>
-        <label><input type="checkbox" id="recipeText" >Recipe</label>
+        <label><input type="checkbox" id="category" checked >Category</label>
+        <label><input type="checkbox" id="recipeText" checked>Recipe</label>
         
         
         <div id="categories">
@@ -53,7 +53,7 @@
             }
             
             function randomize(){
-                subsetOfRecipes = [];
+                subsetOfRecipes = []; 
                 var recipe = recipes[Math.floor(Math.random()*recipes.length)];
                 subsetOfRecipes.push(recipe);
                 
@@ -68,25 +68,74 @@
                 html+= "</div>";
                 return html;
             }
+
+            function searchTerm(word) {
+                var searchType = document.getElementById("category").checked;
+                var searchTitle = document.getElementById("title").checked;
+                var searchRecipe = document.getElementById("recipeText").checked;
+
+                let typeMatches = searchType ? recipes.filter(r=>r.type.toLowerCase().indexOf(word)> -1): [];
+                let titleMatches = searchTitle ? recipes.filter(r=>r.title.toLowerCase().indexOf(word)> -1):[];
+                let recipeMatches = searchRecipe ? recipes.filter(r=>r.recipe.toLowerCase().indexOf(word)> -1):[];
+
+                let resultSet = [];
+                resultSet = typeMatches.concat(titleMatches).concat(recipeMatches);
+                resultSet = resultSet.filter((value,index,self)=>self.indexOf(value)===index);
+
+                return resultSet;
+            }
             
             function search(){
                 var query = document.getElementById("search").value;
                 query = query.toLowerCase();
-                var searchType = document.getElementById("category").checked;
-                var searchTitle = document.getElementById("title").checked;
-                var searchRecipe = document.getElementById("recipeText").checked;
-                if(query.length > 2){
-                    subsetOfRecipes = recipes.filter(function(cur){
-                        return (
-                                   (searchType && cur.type.toLowerCase().indexOf(query) > -1) 
-                                || (searchTitle && cur.title.toLowerCase().indexOf(query) > -1)
-                                || (searchRecipe && cur.recipe.toLowerCase().indexOf(query) > -1)
-                               );
-                    });
-                    drawCards();
+
+                let words = query.split(' ');
+                subsetOfRecipes = [];
+                let resultSets = [];
+                for(var i = 0; i < words.length; i++){
+                    let word = words[i];
+        
+                    let result = searchTerm(word);
+                    resultSets.push(result);
                 }
+
+                subsetOfRecipes = intersection(resultSets);
+             
+                drawCards();
+                
             }
             
+            function intersection() {
+                var result = [];
+                var lists;
+
+                if(arguments.length === 1) {
+                    lists = arguments[0];
+                } else {
+                    lists = arguments;
+                }
+
+                for(var i = 0; i < lists.length; i++) {
+                    var currentList = lists[i];
+                    for(var y = 0; y < currentList.length; y++) {
+                        var currentValue = currentList[y];
+                    if(result.indexOf(currentValue) === -1) {
+                        var existsInAll = true;
+                        for(var x = 0; x < lists.length; x++) {
+                        if(lists[x].indexOf(currentValue) === -1) {
+                            existsInAll = false;
+                            break;
+                        }
+                        }
+                        if(existsInAll) {
+                        result.push(currentValue);
+                        }
+                    }
+                    }
+                }
+                return result;
+            }
+
             function categorySearch(item){
                 var categorySearchText = (item.srcElement.childNodes[0].data || "");
                 subsetOfRecipes = recipes.filter(function(cur){
@@ -102,7 +151,7 @@
                      html += createCard(subsetOfRecipes[i]);
                 }
                 document.getElementById("recipe").innerHTML = html;
-                document.getElementById("overview").innerHTML = "Found " + subsetOfRecipes.length + " Recipe" + (subsetOfRecipes.length !=1 ?"s.":".");
+                document.getElementById("overview").innerHTML = `Found ${subsetOfRecipes.length} recipe${(subsetOfRecipes.length !=1 ?"s":"")} out of ${recipes.length} `;
             }
             
             //listeners
