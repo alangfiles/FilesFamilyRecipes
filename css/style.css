@@ -1,4 +1,9 @@
 
+@media (max-width: 500px) {
+    body {
+      background-color: #eee;
+    }
+  }
 
 button, input[type=button] {
     border-radius: .5em;
@@ -8,12 +13,10 @@ button, input[type=button] {
 }
 
 #overview{ 
-    font-size: 2em;
+    padding-top: 0.5em;
+    font-size: 1.75em;
 }
-#search-box{ 
-    width: 100%;     
-    
-}
+
 #search {
     padding: 0.5em;
     border-radius: 5px;
@@ -22,14 +25,14 @@ button, input[type=button] {
 }
 
 .card{
-background:#eee;
+background:lightyellow;
 margin:20px;
 padding:20px;
 padding-top:0px;
 border-top-width: 16px;
 border-top-style: solid;
 border-radius:5px;
-box-shadow: 5px 5px 5px rgba(100,100,100,.5);
+box-shadow: 0px 0px 5px rgba(100,100,100,.5);
 }
 
 .card-text{
@@ -45,7 +48,7 @@ clear:both;
 .cookiesandsweetsnacks{ border-top-color: #ba00c9;}
 .desserts{ border-top-color: #d800ff;}
 /*  .eggsandporkdishes{ border-top-color: #ffffff;}*/
-.eggs,breakfast,andporkdishes{ border-top-color: #edf44d;}
+.eggs\,breakfast\,andporkdishes{ border-top-color: #edf44d;}
 .fish{ border-top-color: #5f4bff;}
 .giftsandmiscellaneous{ border-top-color: #d80000;}
 .grouprecipes{ border-top-color: #005700;}
@@ -54,7 +57,7 @@ clear:both;
 .poultry{ border-top-color: #f1ff49;}
 .salads{ border-top-color: #008100;}
 .sandwiches{ border-top-color: #46eef5;}
-.sauces,jellies,anddressings{ border-top-color: #f599e3;}
+.sauces\,jellies\,anddressings{ border-top-color: #f599e3;}
 .soups{ border-top-color: #bfe8a5;}
 .specialoccasions{ border-top-color: #76007b;}
 .vegetablesandfruits{ border-top-color: #33f870;}
@@ -69,7 +72,7 @@ body {
 font-family:'HelveticaNeue-Light', 'HelveticaNeue', Helvetica, Arial, sans-serif;
 font-size: 1em;
 height:100%;
-
+width: 100%;
 margin: 1em;
 
 
