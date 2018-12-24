@@ -10,19 +10,17 @@
         <div id="search-box">
             <input id="search" type="text" placeholder="Search Recipes" value="">
             <input type="button" id="random" value="Random Recipe">
+            <button id="toggle-categories">Show Categories</button>
         </div>
-        <label><input type="checkbox" id="title" checked>Title</label>
-        <label><input type="checkbox" id="category" checked >Category</label>
-        <label><input type="checkbox" id="recipeText" checked>Recipe</label>
         
-        
-        <div id="categories">
+
+        <div id="categories" class="hide">
             <button class='category-search'>APPETIZERS AND SNACKS</button>
             <button class='category-search'>BEEF DISHES</button>
             <button class='category-search'>BEVERAGES</button>
             <button class='category-search'>BREADS AND CEREALS</button>
 <!--            <button class='category-search'>COOKIES</button>-->
-            <button class='category-search'>COOKIES/SWEET SNACKS</button>
+            <button class='category-search'>COOKIES AND SWEET SNACKS</button>
             <button class='category-search'>DESSERTS</button>
 <!--            <button class='category-search'>EGGS AND PORK DISHES</button>-->
             <button class='category-search'>EGGS, BREAKFAST, AND PORK DISHES</button>
@@ -43,11 +41,26 @@
         <div id="recipe"></div>
         <script src="volume1.js"></script>
         <script>
-            var types = ["APPETIZERS AND SNACKS","BEEF DISHES","BEVERAGES","BREADS AND CEREALS","COOKIES","COOKIES/SWEET SNACKS","DESSERTS","EGGS AND PORK DISHES","EGGS, BREAKFAST, AND PORK DISHES","FISH","GIFTS AND MISCELLANEOUS","GROUP RECIPES","MISCELLANEOUS AND TASTY GIFTS","PASTA AND STARCHES","POULTRY","SALADS","SANDWICHES","SAUCES, JELLIES, AND DRESSINGS","SOUPS","SPECIAL OCCASIONS","VEGETABLES AND FRUITS"];
+            var types = ["APPETIZERS AND SNACKS","BEEF DISHES","BEVERAGES","BREADS AND CEREALS","COOKIES","COOKIES AND SWEET SNACKS","DESSERTS","EGGS AND PORK DISHES","EGGS, BREAKFAST, AND PORK DISHES","FISH","GIFTS AND MISCELLANEOUS","GROUP RECIPES","MISCELLANEOUS AND TASTY GIFTS","PASTA AND STARCHES","POULTRY","SALADS","SANDWICHES","SAUCES, JELLIES, AND DRESSINGS","SOUPS","SPECIAL OCCASIONS","VEGETABLES AND FRUITS"];
             
             var subsetOfRecipes = [];
             initialize();
             
+            document.getElementById('toggle-categories').addEventListener("click", function(){
+
+                    let el = document.getElementById('categories');
+
+                    if(el.classList.contains('hide')){
+                        el.classList.remove('hide');
+                        document.getElementById('toggle-categories').innerHTML = "Hide Categories";
+
+                    } else {
+                        el.classList.add('hide');
+                        document.getElementById('toggle-categories').innerHTML = "Show Categories";
+                    }
+                   
+            });
+
             function initialize(){
                 randomize();
             }
@@ -70,13 +83,10 @@
             }
 
             function searchTerm(word) {
-                var searchType = document.getElementById("category").checked;
-                var searchTitle = document.getElementById("title").checked;
-                var searchRecipe = document.getElementById("recipeText").checked;
 
-                let typeMatches = searchType ? recipes.filter(r=>r.type.toLowerCase().indexOf(word)> -1): [];
-                let titleMatches = searchTitle ? recipes.filter(r=>r.title.toLowerCase().indexOf(word)> -1):[];
-                let recipeMatches = searchRecipe ? recipes.filter(r=>r.recipe.toLowerCase().indexOf(word)> -1):[];
+                let typeMatches = recipes.filter(r=>r.type.toLowerCase().indexOf(word)> -1);
+                let titleMatches = recipes.filter(r=>r.title.toLowerCase().indexOf(word)> -1);
+                let recipeMatches = recipes.filter(r=>r.recipe.toLowerCase().indexOf(word)> -1);
 
                 let resultSet = [];
                 resultSet = typeMatches.concat(titleMatches).concat(recipeMatches);

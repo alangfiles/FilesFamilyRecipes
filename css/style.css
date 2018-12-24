@@ -1,4 +1,12 @@
 
+
+button, input[type=button] {
+    border-radius: .5em;
+    padding: .5em;
+    margin: 0.1em 0.5em;
+    border: none;
+}
+
 #overview{ 
     font-size: 2em;
 }
@@ -10,7 +18,7 @@
     padding: 0.5em;
     border-radius: 5px;
     margin: 1em;
-    min-width: 50%;
+    min-width: 350px;
 }
 
 .card{
@@ -53,18 +61,16 @@ clear:both;
 
 
 
-#categories{
-display:block;
+.hide {
+    display:none;
 }
-
 
 body {
 font-family:'HelveticaNeue-Light', 'HelveticaNeue', Helvetica, Arial, sans-serif;
-font-size:12px;
+font-size: 1em;
 height:100%;
 
-padding:20px;
-margin: 20px;
+margin: 1em;
 
 
 }
