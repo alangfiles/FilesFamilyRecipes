@@ -35,6 +35,10 @@ border-radius:5px;
 box-shadow: 0px 0px 5px rgba(100,100,100,.5);
 }
 
+.card-title{
+font-size: 1.5em;
+}
+
 .card-text{
 clear:both;
 
@@ -71,8 +75,6 @@ clear:both;
 body {
 font-family:'HelveticaNeue-Light', 'HelveticaNeue', Helvetica, Arial, sans-serif;
 font-size: 1em;
-height:100%;
-width: 100%;
 margin: 1em;
 
 
