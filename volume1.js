@@ -952,7 +952,12 @@ var recipes = [
   {
     "title": "Baked Beans—Marilyn Whitson's ",
     "type": "VEGETABLES AND FRUITS",
-    "recipe": "1- 53 oz can beans \n1 med. onion chopped \n1/4 green Pepper chopped \n1/3 c. brown sugar \n1/3 c. white sugar \n1 T. Karo syrup (opt) \n1/2 c. catsup \nI T. Worcestershire sauce \nDash hot sauce (opt) \n4-6 sl. crisp, cooked bacon \nBake at 375 degrees for 1 hr. 15 min.\nBlack-Eyed Peas, Marinated—Salin Miller’s\n\n2-20oz. cans of black-eyed peas, drained\n1/2 C. salad oil\n1-2 cloves garlic\n1/2 tsp. salt\n1/2 C. wine vinegar\n1/4 C. chopped green onion\nFreshly ground pepper\nMix ingredients in bowl.  Place in a jar and refrigerate.  Garlic may be removed after 24 hr. Marinate at least 2 days and up to 2 wk.  \nDrain part of the liquid and serve. This is very good for a New Year’s Day party."
+    "recipe": "1- 53 oz can beans \n1 med. onion chopped \n1/4 green Pepper chopped \n1/3 c. brown sugar \n1/3 c. white sugar \n1 T. Karo syrup (opt) \n1/2 c. catsup \nI T. Worcestershire sauce \nDash hot sauce (opt) \n4-6 sl. crisp, cooked bacon \nBake at 375 degrees for 1 hr. 15 min.\n"
+  },
+  {
+    "title": "Black-Eyed Peas, Marinated—Salin Miller’s",
+    "type": "VEGETABLES AND FRUITS", 
+    "recipe": "2-20oz. cans of black-eyed peas, drained\n1/2 C. salad oil\n1-2 cloves garlic\n1/2 tsp. salt\n1/2 C. wine vinegar\n1/4 C. chopped green onion\nFreshly ground pepper\nMix ingredients in bowl.  Place in a jar and refrigerate.  Garlic may be removed after 24 hr. Marinate at least 2 days and up to 2 wk.  \nDrain part of the liquid and serve. This is very good for a New Year’s Day party."
   },
   {
     "title": " Black-Eyed Peas, Hot",
