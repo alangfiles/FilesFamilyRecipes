@@ -342,7 +342,12 @@ var recipes = [
   {
     "title": " Cucumbers in Cream—Virginia Reilly’s ",
     "type": "SALADS",
-    "recipe": "1/2 c. sour cream (or yogurt) \n1/4 c mayonnaise \n2 T, lemon juice, or cider vinegar \n1 t. sugar \n1 t. salt \n1/4 t. pepper \n1/2 tsp. Parsley (or Chervil)\nCan sprinkle with dill \n2-lg. cucumbers- pealed, seeded, & sliced. \n1 med. onion – thinly sliced \nMix well & chill 2 hr. \nEggs, Deviled \n\nMash yolks - 12 eggs \n1/4 c mayonnaise \n1 t. vinegar \n1 t. mustard \n1/2 t salt \nMix all and replace in eggs. "
+    "recipe": "1/2 c. sour cream (or yogurt) \n1/4 c mayonnaise \n2 T, lemon juice, or cider vinegar \n1 t. sugar \n1 t. salt \n1/4 t. pepper \n1/2 tsp. Parsley (or Chervil)\nCan sprinkle with dill \n2-lg. cucumbers- pealed, seeded, & sliced. \n1 med. onion – thinly sliced \nMix well & chill 2 hr. \n"
+  },
+  {
+    "title": "Eggs, Deviled",
+    "type": "SALADS",
+    "recipe": "Mash yolks - 12 eggs \n1/4 c mayonnaise \n1 t. vinegar \n1 t. mustard \n1/2 t salt \nMix all and replace in eggs. "
   },
   {
     "title": "Egg Salad—Lou McKnight’s",
@@ -1447,7 +1452,12 @@ var recipes = [
   {
     "title": "Cherry Sauce—Virginia Reilly’s ",
     "type": "SAUCES, JELLIES, AND DRESSINGS",
-    "recipe": "1 can red, sour, pitted cherries (water packed)\nDrain, save liquid.\n1 1/2 c. sugar\n1/2 C. cider vinegar\n12 whole cloves\n1 stick cinnamon\n1/4 c. flour\n1 T. lemon juice\nIn pan combine sugar, 1/2 cherry liquid, vinegar, cloves, cinnamon.\nBring to boil, reduce heat and cook about 10 min.\nMeanwhile, mix flour with rest of cherry juice (cornstarch??)\nAdd slowly to hot mixture and heat to thicken. \nAdd cherries.  Serve hot. \nOver ham loaf or ham\nCranberry Sauce, Baked—Candy Roselier’s\n\n1 bag cranberries (4 C.) —leave whole—just rinse and drain.\n12 oz. jar orange marmalade\n3/4 C. sugar\n1/4 C. water\n1 C. toasted chopped pecans\nCombine all except pecans. Pour into 9 x 13 greased pan. Bake at 350 for 45 min. Stir in pecans. Serve warm or cold. Refrigerate up to 1 week."
+    "recipe": "1 can red, sour, pitted cherries (water packed)\nDrain, save liquid.\n1 1/2 c. sugar\n1/2 C. cider vinegar\n12 whole cloves\n1 stick cinnamon\n1/4 c. flour\n1 T. lemon juice\nIn pan combine sugar, 1/2 cherry liquid, vinegar, cloves, cinnamon.\nBring to boil, reduce heat and cook about 10 min.\nMeanwhile, mix flour with rest of cherry juice (cornstarch??)\nAdd slowly to hot mixture and heat to thicken. \nAdd cherries.  Serve hot. \nOver ham loaf or ham\n"
+  },
+  {
+    "title": "Cranberry Sauce, Baked—Candy Roselier’s",
+    "type": "SAUCES, JELLIES, AND DRESSINGS",
+    "recipe": "1 bag cranberries (4 C.) —leave whole—just rinse and drain.\n12 oz. jar orange marmalade\n3/4 C. sugar\n1/4 C. water\n1 C. toasted chopped pecans\nCombine all except pecans. Pour into 9 x 13 greased pan. Bake at 350 for 45 min. Stir in pecans. Serve warm or cold. Refrigerate up to 1 week."
   },
   {
     "title": "Fuji Salad Dressing (or as close as I could get)",
