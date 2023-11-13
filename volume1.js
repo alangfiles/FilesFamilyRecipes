@@ -477,7 +477,7 @@ var recipes = [
   {
     "title": "Mexican Stew—Jane Keahey’s",
     "type": "SOUPS",
-    "2 lb. ground beef\n1 large onion, chopped (optional)\nBrown these together, drain, and add the following:\n\t1 pkg. Mild taco seasonings\n\t1 tsp. salt\n\t1/2 tsp. pepper\nMix and add:\n\t2 cans Veg-All (drained)\n\t2 cans plain pinto beans (not drained)\n\t2 can whole kernel corn (not drained)\n\t2 cans sliced new potatoes (drained)\n\t3 sm. cans tomato sauce (or 16 oz.)\n\nSimmer together awhile.  \nEasy dinner to take to someone as dinner served with cornbread, and brownies (maybe salad, too)",
+    "recipe": "2 lb. ground beef\n1 large onion, chopped (optional)\nBrown these together, drain, and add the following:\n\t1 pkg. Mild taco seasonings\n\t1 tsp. salt\n\t1/2 tsp. pepper\nMix and add:\n\t2 cans Veg-All (drained)\n\t2 cans plain pinto beans (not drained)\n\t2 can whole kernel corn (not drained)\n\t2 cans sliced new potatoes (drained)\n\t3 sm. cans tomato sauce (or 16 oz.)\n\nSimmer together awhile.  \nEasy dinner to take to someone as dinner served with cornbread, and brownies (maybe salad, too)",
   },
   {
     "title": "Mushroom Soup—The Breakers’   (Prep time: 45 min.)",
