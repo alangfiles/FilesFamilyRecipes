@@ -49,7 +49,7 @@
 
             const queryString = window.location.search;
             const urlParams = new URLSearchParams(queryString);
-            const recipeValues = urlParams.get('recipes');
+            let recipeValues = urlParams.get('recipes');
 
             initialize();
             
