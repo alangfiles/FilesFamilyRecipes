@@ -80,7 +80,7 @@
             function getSpecificRecipe(){
                 subsetOfRecipes = []; 
                 let recipesToUse = recipeValues.split(',');
-                for(const recipeValue in recipesToUse){
+                for(const recipeValue of recipesToUse){
                     let recipe=recipes[recipeValue];
                     subsetOfRecipes.push({...recipe, id: recipeValue});
                 }
