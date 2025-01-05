@@ -46,6 +46,11 @@
             var types = ["APPETIZERS AND SNACKS","BEEF DISHES","BEVERAGES","BREADS AND CEREALS","COOKIES","COOKIES AND SWEET SNACKS","DESSERTS","EGGS AND PORK DISHES","EGGS, BREAKFAST, AND PORK DISHES","FISH","GIFTS AND MISCELLANEOUS","GROUP RECIPES","MISCELLANEOUS AND TASTY GIFTS","PASTA AND STARCHES","POULTRY","SALADS","SANDWICHES","SAUCES, JELLIES, AND DRESSINGS","SOUPS","SPECIAL OCCASIONS","VEGETABLES AND FRUITS"];
             
             var subsetOfRecipes = [];
+
+            const queryString = window.location.search;
+            const urlParams = new URLSearchParams(queryString);
+            const recipeValues = urlParams.get('recipes');
+
             initialize();
             
             document.getElementById('toggle-categories').addEventListener("click", function(){
@@ -64,13 +69,27 @@
             });
 
             function initialize(){
+                if(idValue){
+                    
+                }
                 randomize();
+            }
+
+            function getSpecificRecipe(){
+                subsetOfRecipes = []; 
+                let recipesToUse = recipeValues.split(',');
+                for(const recipeValue in recipesToUse){
+                    let recipe=recipes[recipeValue];
+                    subsetOfRecipes.push({...recipe, id: recipeValue});
+                }
+                drawCards();
             }
             
             function randomize(){
                 subsetOfRecipes = []; 
-                var recipe = recipes[Math.floor(Math.random()*recipes.length)];
-                subsetOfRecipes.push(recipe);
+                const randomNumber = Math.floor(Math.random()*recipes.length);
+                var recipe = recipes[randomNumber];
+                subsetOfRecipes.push({...recipe, id:randomNumber});
                 
                 drawCards();
             }
@@ -155,13 +174,30 @@
                 });
                 drawCards();
             }
+
+            function findRecipeIndexByTitle(title) {
+                return recipes.findIndex(recipe => recipe.title === title);
+            }
+
+            function updateQueryString(param, value) {
+                const url = new URL(window.location);
+
+                // Update the query parameter
+                url.searchParams.set(param, value);
+
+                // Push the new URL to the history without reloading the page
+                window.history.pushState({}, '', url);
+            }
             
             function drawCards(){
                 
                 var html ="";
+                const ids=[];
                 for(var i=0; i< subsetOfRecipes.length;i++){
                      html += createCard(subsetOfRecipes[i]);
+                     ids.push(findRecipeIndexByTitle(subsetOfRecipes[i].title))
                 }
+                updateQueryString('recipes',ids.join(','))
                 document.getElementById("recipe").innerHTML = html;
                 document.getElementById("overview").innerHTML = `Found ${subsetOfRecipes.length} recipe${(subsetOfRecipes.length !=1 ?"s":"")} out of ${recipes.length} `;
             }
