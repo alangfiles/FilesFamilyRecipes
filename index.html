@@ -200,6 +200,7 @@
                      ids.push(findRecipeIndexByTitle(subsetOfRecipes[i].title))
                 }
                 updateQueryString('recipes',ids.join(','))
+                recipeValues=ids.join(',');
                 document.getElementById("recipe").innerHTML = html;
                 document.getElementById("overview").innerHTML = `Found ${subsetOfRecipes.length} recipe${(subsetOfRecipes.length !=1 ?"s":"")} out of ${recipes.length} `;
             }
