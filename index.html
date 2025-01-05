@@ -71,8 +71,10 @@
             function initialize(){
                 if(recipeValues){
                     getSpecificRecipe();
+                } else {
+                    randomize();
                 }
-                randomize();
+                
             }
 
             function getSpecificRecipe(){
