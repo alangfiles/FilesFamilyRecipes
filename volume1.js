@@ -362,7 +362,12 @@ var recipes = [
   {
     "title": " Macaroni Salad-- St. Francis’",
     "type": "SALADS",
-    "recipe": "2 C. cooked curly macaroni (1 3/4 C. uncooked)\n3/4 c. mayonnaise\n1/2 t. salt\n1/4 t. pepper\n1/2 green pepper, chopped\n3 slices ham--cubed\n1 T. onion\n6 slices American cheese, cubed\nSm. amt. French dressing\n2 hard-boiled eggs (opt)\n1 t. mustard.\nMix all and chill.\n\nMarinated Mushroom/Artichoke Heart, Salad\n\n1 1/2 C. water\n1 1/2 C. apple cider vinegar\n1/2 C. salad oil\n2 cloves garlic, crushed\n1/2 tsp. sweet basil\n1/2 tsp. oregano\n1/2 tsp. thyme\n1/2 tsp. pepper\n1 tsp. salt\nMix together and add 1 lb. mushrooms and large drained can artichoke hearts.\nMarinate 24 hr., and serve cold."
+    "recipe": "2 C. cooked curly macaroni (1 3/4 C. uncooked)\n3/4 c. mayonnaise\n1/2 t. salt\n1/4 t. pepper\n1/2 green pepper, chopped\n3 slices ham--cubed\n1 T. onion\n6 slices American cheese, cubed\nSm. amt. French dressing\n2 hard-boiled eggs (opt)\n1 t. mustard.\nMix all and chill."
+  },
+  {
+    "title": "Marinated Mushroom/Artichoke Heart Salad",
+    "type": "SALADS",
+    "recipe": "1 1/2 C. water\n1 1/2 C. apple cider vinegar\n1/2 C. salad oil\n2 cloves garlic, crushed\n1/2 tsp. sweet basil\n1/2 tsp. oregano\n1/2 tsp. thyme\n1/2 tsp. pepper\n1 tsp. salt\nMix together and add 1 lb. mushrooms and large drained can artichoke hearts.\nMarinate 24 hr., and serve cold."
   },
   {
     "title": " Okra Salad- Sharlette White’s",
@@ -482,7 +487,12 @@ var recipes = [
   {
     "title": "Mushroom Soup—The Breakers’   (Prep time: 45 min.)",
     "type": "SOUPS",
-    "recipe": "Makes 1 blender full or 6 C.\n\n3 T. butter\n1/2 lb. fresh mushrooms, chopped (reserve 1/8 lb. and slice for garnish)\n1/2 C. chopped onions\n1/4 C. chopped celery\n1 1/2 cloves fresh garlic, minced\n2 T. flour\n4 1/2 C. chicken stock—(2 cans broth plus 2 cans water)\n1 C. heavy cream\n2 T. dry Marsala wine\n2 T. dry sherry wine\nSalt and pepper to taste\nDash of nutmeg\nIn 4 Qt. saucepan, melt butter; add chopped mushrooms, onion, celery, and garlic.  \nSauté until mushrooms soften and lose their liquid. \nDust flour over mixture and continue cooking for about 2 min.\nWhile stirring constantly, add chicken stock and bring to full boil.\nReduce heat and simmer 8-10 min. (until flour can’t be tasted)\nBlend and puree mixture in blender and return to saucepan. \nStir in cream and let set 5 min. on low heat, (do not boil).\nGarnish:  In a separate saucepan, heat Marsala and sherry wine.  \nAdd sliced mushrooms, blanch until softened and add to soup.  \nSeason with salt, white pepper, and nutmeg.  Makes 4-5 generous servings.  \n\nMushroom Soup, Easy\n\n2--10 oz. cans cream of mushroom soup\n2  soup cans milk\n1/4 lb. mushrooms\n2 T. butter\n1/4 C. sherry\nCombine soup and milk; heat.\nSauté mushrooms in butter and add to steaming soup.  \nStir in sherry and serve. Serves 2-4."
+    "recipe": "Makes 1 blender full or 6 C.\n\n3 T. butter\n1/2 lb. fresh mushrooms, chopped (reserve 1/8 lb. and slice for garnish)\n1/2 C. chopped onions\n1/4 C. chopped celery\n1 1/2 cloves fresh garlic, minced\n2 T. flour\n4 1/2 C. chicken stock—(2 cans broth plus 2 cans water)\n1 C. heavy cream\n2 T. dry Marsala wine\n2 T. dry sherry wine\nSalt and pepper to taste\nDash of nutmeg\nIn 4 Qt. saucepan, melt butter; add chopped mushrooms, onion, celery, and garlic.  \nSauté until mushrooms soften and lose their liquid. \nDust flour over mixture and continue cooking for about 2 min.\nWhile stirring constantly, add chicken stock and bring to full boil.\nReduce heat and simmer 8-10 min. (until flour can’t be tasted)\nBlend and puree mixture in blender and return to saucepan. \nStir in cream and let set 5 min. on low heat, (do not boil).\nGarnish:  In a separate saucepan, heat Marsala and sherry wine.  \nAdd sliced mushrooms, blanch until softened and add to soup.  \nSeason with salt, white pepper, and nutmeg.  Makes 4-5 generous servings."
+  },
+  {
+    "title": "Mushroom Soup, Easy",
+    "type": "SOUPS",
+    "recipe": "2--10 oz. cans cream of mushroom soup\n2  soup cans milk\n1/4 lb. mushrooms\n2 T. butter\n1/4 C. sherry\nCombine soup and milk; heat.\nSauté mushrooms in butter and add to steaming soup.  \nStir in sherry and serve. Serves 2-4."
   },
   {
     "title": " Pea Soup—St. Andrew’s Church-Lawton",
@@ -607,7 +617,12 @@ var recipes = [
   {
     "title": " Roast, Standing Rib, with Red Wine Sauce (English Christmas Dinner)",
     "type": "BEEF DISHES",
-    "recipe": "1 6-8 lb. standing rib roast  (Serves 6-8 people)\n2 cloves garlic\n1 lg. onion, thinly sliced\nSalt and freshly ground pepper\n1 1/2 c. dry red wine\n2-c. beef, veal or chicken stock\nTrim most of fat off meat, leaving no more than a 1/4 in. layer.\nPlace meat with bone side down in shallow roasting pan just big enough to hold roast.\nCut garlic pieces in two and rub it all over meat.\nSalt and pepper generously.  Leave garlic in pan. Scatter onion around meat.\nRoast in 325-degree oven for 20 min.  \nPour 1/2 c. of wine over meat. Baste frequently, adding about 1/4 c. of wine every 1/2 hr.\nContinue roasting until meat thermometer shows 125 to 130 degrees, for rare.\nCan go to 140 degrees, for not bloody. Total cooking time is around 2 1/2 hr.\n\nAu Jus: Remove meat to warm platter and cover with foil.\nSkim fat from pan, and put pan with remaining drippings over high heat on stove.\nAdd stock and bring to boil, scraping up any browned bits on bottom of pan.  \nCook for 8 min, stirring frequently. Season with salt and pepper.  Strain. \nServe with meat.  (Great served with Yorkshire Pudding--in starch section).\nRoast—Hazel Reilly’s\n\n1 Roast (brisket, maybe order one rolled and tied for baking, like a rolled rib) \n1 pkg. dry onion soup mix--Using wooden spoon handle, poke all the soup mix into the roll, in the folds, not pound in meat.\nWrap in two sheets of foil and bake 6 hr. at 250. Put in at noon for dinner that night."
+    "recipe": "1 6-8 lb. standing rib roast  (Serves 6-8 people)\n2 cloves garlic\n1 lg. onion, thinly sliced\nSalt and freshly ground pepper\n1 1/2 c. dry red wine\n2-c. beef, veal or chicken stock\nTrim most of fat off meat, leaving no more than a 1/4 in. layer.\nPlace meat with bone side down in shallow roasting pan just big enough to hold roast.\nCut garlic pieces in two and rub it all over meat.\nSalt and pepper generously.  Leave garlic in pan. Scatter onion around meat.\nRoast in 325-degree oven for 20 min.  \nPour 1/2 c. of wine over meat. Baste frequently, adding about 1/4 c. of wine every 1/2 hr.\nContinue roasting until meat thermometer shows 125 to 130 degrees, for rare.\nCan go to 140 degrees, for not bloody. Total cooking time is around 2 1/2 hr.\n\nAu Jus: Remove meat to warm platter and cover with foil.\nSkim fat from pan, and put pan with remaining drippings over high heat on stove.\nAdd stock and bring to boil, scraping up any browned bits on bottom of pan.  \nCook for 8 min, stirring frequently. Season with salt and pepper.  Strain. \nServe with meat.  (Great served with Yorkshire Pudding--in starch section).\n"
+  },
+  {
+    "title":"Roast—Hazel Reilly’s",
+    "type":"BEEF DISHES",
+    "recipe":"\n\n1 Roast (brisket, maybe order one rolled and tied for baking, like a rolled rib) \n1 pkg. dry onion soup mix--Using wooden spoon handle, poke all the soup mix into the roll, in the folds, not pound in meat.\nWrap in two sheets of foil and bake 6 hr. at 250. Put in at noon for dinner that night."
   },
   {
     "title": "Round Steak, Wine Sauced ",
@@ -966,7 +981,7 @@ var recipes = [
   },
   {
     "title": "Black-Eyed Peas, Marinated—Salin Miller’s",
-    "type": "VEGETABLES AND FRUITS", 
+    "type": "VEGETABLES AND FRUITS",
     "recipe": "2-20oz. cans of black-eyed peas, drained\n1/2 C. salad oil\n1-2 cloves garlic\n1/2 tsp. salt\n1/2 C. wine vinegar\n1/4 C. chopped green onion\nFreshly ground pepper\nMix ingredients in bowl.  Place in a jar and refrigerate.  Garlic may be removed after 24 hr. Marinate at least 2 days and up to 2 wk.  \nDrain part of the liquid and serve. This is very good for a New Year’s Day party."
   },
   {
@@ -1108,6 +1123,11 @@ var recipes = [
     "title": "Apple Crisp",
     "type": "DESSERTS",
     "recipe": "4 C.  sliced apples\n1/3 C. whole wheat pastry flour\n1/4 C. honey\n1/3 C. melted butter\n1 T. lemon juice\n1 C. oatmeal\n1 tsp. cinnamon\n1/4 tsp. ground cloves\n\nPlace apples in buttered pan. Sprinkle with lemon juice and honey.  \nCombine dry ingredients. Add melted butter. Mix till crumbly.  \nPour over apples and bake at 350 for 30 min. \nServe with fresh whipped cream or ice cream."
+  },
+  {
+    "title": "Oatmeal Lace Cookies - Ryan Files from TikTok",
+    "type": "DESSERTS",
+    "recipe": "1/2 C. unsalted butter\n1 C. light brown sugar\n1 C. old fashioned oats\n1 Tbsp. + 1 tsp. all-purpose flour\n1/2 tsp. salt\n1 large egg\n1 tsp. vanilla extract\n\nPreheat oven to 375°F and line baking sheets with parchment or silicone mats.\nMelt butter and brown sugar together in a frying pan over medium heat until smooth.\nStir in oats, flour, and salt until coated.\nMix in egg and vanilla until batter is thin and soupy.\nDrop 1 tsp. batter per cookie onto sheets, spacing 2 inches apart.\nBake 5–7 minutes until edges are golden brown (less for chewy, more for crispy).\nCool on sheet 15 minutes, then transfer to racks.\nStore airtight up to 5 days or freeze up to 1 month."
   },
   {
     "title": "Apricot Squares",
@@ -1604,7 +1624,7 @@ var recipes = [
     "type": "BEVERAGES",
     "recipe": "1 small can orange juice undiluted\n1 2-liter Big Red soda pop\nAdd together and serve!"
   },
-    {
+  {
     "title": "Hot Spiced Cranberry Cider--Michele O'Sullivan  via Sally Key",
     "type": "BEVERAGES",
     "recipe": "If desired, float a fresh lemon slice in each cup.  Servings:  25\n\n2 quarts apple cider\n6 cups cranberry juice\n1/4 cup packed brown sugar\n4 cinnamon sticks\n1 1/2 teaspoons whole cloves\n1 lemon, thinly sliced\n\nIn a large pot, combine apple cider, cranberry juice, brown sugar, cinnamon\nsticks, cloves and lemon slices. Bring to a boil, reduce heat, and simmer for 15 to 20 minutes. With a slotted spoon, remove cinnamon, cloves, and lemon slices.  Serve hot."
@@ -1634,9 +1654,9 @@ var recipes = [
     "type": "BEVERAGES",
     "recipe": "Bring one gallon of apple cider to a boil.\nAdd one small box of raspberry jello.  Stir until jello is all dissolved."
   },
-{
-    "title":"Age-Defying Shake—Pat Robertson",
-    "type":"BEVERAGES",
+  {
+    "title": "Age-Defying Shake—Pat Robertson",
+    "type": "BEVERAGES",
     "recipe": "6-8 oz. orange juice (water, other fruit juices, low-fat or skim milk can be substituted)\n5 Tablespoons soy protein isolate\n5 Tablespoons whey protein isolate\n2 Tablespoons natural apple cider vinegar\n1 tablespoon flaxseed oil\n1 tablespoon safflower oil\n2 tablespoons (or more) soy lecithin\n1 teaspoon MSM powder\n1 teaspoon glutamine powder\n5-6 frozen strawberries (or other fruits, e.g. peach, apple)\nNon-caloric sweetener to taste (aspartame not recommended)\n4-5 ice cubes (optional, use for a colder shake)\n\nIn a standard blender, combine the above ingredients.  \nBlend until the shake is smooth and the ice cubes are crushed.\nOptional ingredients you can try:\n2 tablespoons non-fat plain yogurt or 1 banana (gives more body to the drink)"
   },
   {
@@ -1644,10 +1664,10 @@ var recipes = [
     "type": "BEVERAGES",
     "recipe": " May want to add more sugar and apple juice and orange juice. Just do the taste test and make additions until it suits you. \n\n2 C. Apple juice \n6 C. Cranberry juice \n1 C. Orange juice \nJuice of 2 lemons (about 6 T.) \n6 whole cloves \n1 cinnamon stick (I used about 4) \n8 T. sugar to taste \n2 Oranges, sliced \n2 limes, sliced \n\nCombine all ingredients in large saucepan, except sliced lemons and limes. Stir mixture until sugar is dissolved, then cover and heat on low until punch comes to a boil. Stud the fruit slices with a few whole cloves. \nFloat as a garnish in the punch. Or a crabapple in each cup is a nice touch."
   },
-    {
-    "title":"Quick mix Beverage—Lesley Files",
-    "type":"BEVERAGES",
-    "recipe":"Add 1 envelope of instant Apple Cider mix to a glass of Sprite and stir.\n(Can use the diet variety if you prefer)"
+  {
+    "title": "Quick mix Beverage—Lesley Files",
+    "type": "BEVERAGES",
+    "recipe": "Add 1 envelope of instant Apple Cider mix to a glass of Sprite and stir.\n(Can use the diet variety if you prefer)"
   },
   {
     "title": "ABC Breakfast Rolls",
@@ -1727,7 +1747,12 @@ var recipes = [
   {
     "title": "Frosted Cranberry Squares—Debbie O’Neal  (could also be a dessert)",
     "type": "SALADS",
-    "recipe": "2.3 oz. (90 g) pkg. Raspberry gelatin\n2 c.\tboiling water\n12-oz.\tfresh or frozen cranberries, thawed\n2 c.\tsugar\n2/3 c.\torange juice\n20-oz.\tcan crushed pineapple in pineapple juice\n1 tsp.\tgrated orange peel\nTopping\n3 oz. \tcream cheese, softened\n1 c.\twhipping cream\n1 c.\tminiature marshmallows\nOrange slices or zest of orange peel & sugared cranberries for garnish.\n       In large bowl dissolve gelatin in boiling water; set aside.  In 5-c. blender container blend cranberries, half at a time, on high speed. Stopping blender frequently to scrape sides, until well chopped (1 to 2 min.).  Stir cranberries and remaining gelatin ingredients into dissolved gelatin mixture.  Pour into 13x9” pan.  Cover; refrigerate until firm (6 hrs. or overnight).  \n       In small mixer bowl beat cream cheese at med. speed, scraping bowl often, until light and fluffy (1 to 2 min.).  Scrape cheese off  beaters; add whipping cream.  Beat at low speed until mixed.  Increase speed to high.  Continue beating, scraping bowl often, until stiff peaks form (1 to 2 min.).  By hand, fold in marshmallows.  Spread over firm cranberry gelatin.  Refrigerate at least 1 hr.  Cut into squares.   Add garnish if desired.\nFrozen Fruit Salad #1–Kay Childress  (Serves 10 to 12)\n     1 pt. sour cream (16 oz.)\n     2 Tsp. lemon juice (fresh)\n     1/2 tsp. salt\n     3/4 cup sugar\n     1 can (9 oz) crushed pineapple \n     1/4 cup chopped maraschino cherries\n     1/4 cup chopped pecans\nMix cream, lemon juice, sugar and salt. Add other ingredients and blend. Put into muffin tins lined with paper cups. \nFreeze.     "
+    "recipe": "2.3 oz. (90 g) pkg. Raspberry gelatin\n2 c.\tboiling water\n12-oz.\tfresh or frozen cranberries, thawed\n2 c.\tsugar\n2/3 c.\torange juice\n20-oz.\tcan crushed pineapple in pineapple juice\n1 tsp.\tgrated orange peel\nTopping\n3 oz. \tcream cheese, softened\n1 c.\twhipping cream\n1 c.\tminiature marshmallows\nOrange slices or zest of orange peel & sugared cranberries for garnish.\n       In large bowl dissolve gelatin in boiling water; set aside.  In 5-c. blender container blend cranberries, half at a time, on high speed. Stopping blender frequently to scrape sides, until well chopped (1 to 2 min.).  Stir cranberries and remaining gelatin ingredients into dissolved gelatin mixture.  Pour into 13x9” pan.  Cover; refrigerate until firm (6 hrs. or overnight).  \n       In small mixer bowl beat cream cheese at med. speed, scraping bowl often, until light and fluffy (1 to 2 min.).  Scrape cheese off  beaters; add whipping cream.  Beat at low speed until mixed.  Increase speed to high.  Continue beating, scraping bowl often, until stiff peaks form (1 to 2 min.).  By hand, fold in marshmallows.  Spread over firm cranberry gelatin.  Refrigerate at least 1 hr.  Cut into squares.   Add garnish if desired."
+  },
+  {
+  "title": "Frozen Fruit Salad #1–Kay Childress  (Serves 10 to 12)",
+  "type": "SALADS",
+  "recipe":"1 pt. sour cream (16 oz.)\n     2 Tsp. lemon juice (fresh)\n     1/2 tsp. salt\n     3/4 cup sugar\n     1 can (9 oz) crushed pineapple \n     1/4 cup chopped maraschino cherries\n     1/4 cup chopped pecans\nMix cream, lemon juice, sugar and salt. Add other ingredients and blend. Put into muffin tins lined with paper cups. \nFreeze."
   },
   {
     "title": "Frozen Fruit Salad  #2–Susan Verret       (Serves 12) ",
@@ -2007,7 +2032,12 @@ var recipes = [
   {
     "title": "Asian Grilled Salmon –Natalie Files",
     "type": "FISH",
-    "recipe": "2 teaspoons Dijon mustard\n3 Tablespoons Soy sauce\n6 Tablespoons Olive oil\n1/2 teaspoon chopped garlic\n\nMix together and pour over salmon.\nMarinate salmon for 30 minutes to an hour\nMed/High grill\nCook until done (depending on thickness)\n\nBaked Salmon—Gina Romanelli\n\nSoak salmon servings in mixture of ½ lemon juice and ½ olive oil for 10-20 min. or so. Remove from soak and place salmon servings in shallow baking dish and top with bread crumbs, parmesan cheese, parsley, salt and pepper, and minced garlic.\nBake in 400 oven for about 15-20 min. (for about 1” thick salmon pieces). \nWhen cooked, can add more lemon juice on top and drizzle with more olive oil if desired."
+    "recipe": "2 teaspoons Dijon mustard\n3 Tablespoons Soy sauce\n6 Tablespoons Olive oil\n1/2 teaspoon chopped garlic\n\nMix together and pour over salmon.\nMarinate salmon for 30 minutes to an hour\nMed/High grill\nCook until done (depending on thickness)"
+  },
+  {
+    "title": "Baked Salmon—Gina Romanelli",
+    "type": "FISH",
+    "recipe": "Soak salmon servings in mixture of ½ lemon juice and ½ olive oil for 10-20 min. or so. Remove from soak and place salmon servings in shallow baking dish and top with bread crumbs, parmesan cheese, parsley, salt and pepper, and minced garlic.\nBake in 400 oven for about 15-20 min. (for about 1” thick salmon pieces). \nWhen cooked, can add more lemon juice on top and drizzle with more olive oil if desired."
   },
   {
     "title": "“Chicken” Haddy—Karin Files’ family cookbook",
@@ -2060,9 +2090,9 @@ var recipes = [
     "recipe": "About 5 lg. sweet potatoes Bake about 1 hr. at 350. (Maybe not that long) Peel?\nCut into ½-1” squares\nCook 1 lb. bacon and drain\nFry sweet, chopped onion in bacon grease\nAdd honey to taste\nAdd in cubed sweet potatoes and continue cooking in skillet about 20 min.\nAdd salt and pepper to taste."
   },
   {
-    "title": "     DESSERTS",
+    "title": "Berry Crisp—Connie Daniel",
     "type": "DESSERTS",
-    "recipe": "Berry Crisp—Connie Daniel\n1  16 oz. pkg. frozen mixed berries\n2 T. flour\n¼ C. sugar\nMix together and fill an 8 x 8 pan\n\nTopping:\n1 C. oats\n1 C. brown sugar\n1 C. flour\n1 stick butter (softened)\nMix together into a crumbly mixture.  Top berries and bake at 375 until golden and bubbly.  (about 30-40 min.) (Might want to double fruit part only)"
+    "recipe": "1  16 oz. pkg. frozen mixed berries\n2 T. flour\n¼ C. sugar\nMix together and fill an 8 x 8 pan\n\nTopping:\n1 C. oats\n1 C. brown sugar\n1 C. flour\n1 stick butter (softened)\nMix together into a crumbly mixture.  Top berries and bake at 375 until golden and bubbly.  (about 30-40 min.) (Might want to double fruit part only)"
   },
   {
     "title": "Irish Cream Bundt Cake-- via Sally Key  (serves 12)",
@@ -2166,7 +2196,7 @@ var recipes = [
   },
   {
     "title": "Easter Cookies",
-    "type":"COOKIES AND SWEET SNACKS",
+    "type": "COOKIES AND SWEET SNACKS",
     "recipe": "½ C. whole pecans (optional)\n1 tsp. vinegar \n3 egg whites \npinch of salt \n1 cup sugar \nzipper baggie \nwooden spoon \ntape \nBible (readings are in the Miscellaneous Section of this if want to use them)\n\nPreheat over to 300*F. \nPlace pecans in zipper baggie.\nLet children beat pecans into very, very small pieces with the wooden spoon. \nExplain that after Jesus was arrested he was beaten by the Roman soldiers. \n\nLet each child smell the vinegar. \nPut 1 tsp. vinegar into mixing bowl. \nExplain that when Jesus was thirsty on the cross, he was given vinegar to drink. \n\nAdd egg whites to vinegar. \nEggs represent life. Explain that Jesus gave his life to us. \n\nSprinkle a little salt into each child's hand. \nLet them taste and brush the rest into the bowl.\nExplain how this represents the salty tears shed by Jesus' followers, and the bitterness of our own sin. \n\nNote that so far the ingredients are not very appetizing. \n\nAdd 1 cup sugar. \nExplain that the sweetest part of the story is that Jesus died because he loves us. \nHe wants us to know Him and belong to Him. \n\nBeat with mixer on high speed for 12-15 minutes until stiff peaks are formed. \nExplain that the white color represents purity in God's eyes of those whose sins have been cleansed by Jesus. \n\nFold in broken nuts. Drop by teaspoons onto wax paper covered cookie sheet. \nExplain that each mound represents the rocky tomb where Jesus' body was laid. \nPut the cookie sheet in the oven, close the door and turn the oven OFF. \nGive each child a piece of tape and seal the oven door.\nExplain that Jesus' tomb was sealed.\nLeave cookies in oven, and go to bed.\nExplain that they may feel sad to leave the cookies in the oven overnight. \nJesus followers were in despair when the tomb was sealed. \n\nOn Easter morning, open the oven and give everyone a cookie.\nNotice the cracked surface and take a bite. The cookies are hollow! Like the empty tomb!  On the first Easter, Jesus followers were amazed to find the tomb open and empty.  He is risen!"
   },
   {
