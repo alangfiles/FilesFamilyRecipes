@@ -1127,7 +1127,7 @@ var recipes = [
   {
     "title": "Oatmeal Lace Cookies - Ryan Files from TikTok",
     "type": "DESSERTS",
-    "recipe": "1/2 C. unsalted butter\n1 C. light brown sugar\n1 C. old fashioned oats\n1 Tbsp. + 1 tsp. all-purpose flour\n1/2 tsp. salt\n1 large egg\n1 tsp. vanilla extract\n\nPreheat oven to 375°F and line baking sheets with parchment or silicone mats.\nMelt butter and brown sugar together in a frying pan over medium heat until smooth.\nStir in oats, flour, and salt until coated.\nMix in egg and vanilla until batter is thin and soupy.\nDrop 1 tsp. batter per cookie onto sheets, spacing 2 inches apart.\nBake 5–7 minutes until edges are golden brown (less for chewy, more for crispy).\nCool on sheet 15 minutes, then transfer to racks.\nStore airtight up to 5 days or freeze up to 1 month."
+    "recipe": "1/2 C. unsalted butter\n1 C. light brown sugar\n1 C. old fashioned oats\n1 Tbsp. + 1 tsp. all-purpose flour\n1/2 tsp. salt\n1 large egg\n1 tsp. vanilla extract\n\nPreheat oven to 375°F and line baking sheets with parchment or silicone mats.\nMelt butter and brown sugar together in a frying pan over medium heat until smooth.\nRemove from heat.\nStir in oats, flour, and salt until coated.\nMix in egg and vanilla until batter is thin and soupy.\nDrop 1 tsp. batter per cookie onto sheets, spacing 2 inches apart.\nBake 5–7 minutes until edges are golden brown (less for chewy, more for crispy).\nCool on sheet 15 minutes, then transfer to racks.\nStore airtight up to 5 days or freeze up to 1 month."
   },
   {
     "title": "Apricot Squares",
